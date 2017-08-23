@@ -1,0 +1,4190 @@
+{
+    "data": [
+        {
+            "book_ids": [
+                "a_century_of_spies",
+                "citizen_espionage",
+                "double_eagle_a01",
+                "double_eagle_a02",
+                "games_of_intelligence",
+                "games_of_intelligence_a01",
+                "great_true_spy_stories",
+                "intelligence_the_human_factor",
+                "secret_armies_a01",
+                "the_business_of_spying",
+                "the_craft_of_intelligence",
+                "the_fourth_world_war",
+                "the_intelligence_game",
+                "the_master_book_of_spies",
+                "the_secret_is_out",
+                "the_secret_war_a04",
+                "z_lewa_i_z_prawa",
+                "a_spys_revenge",
+                "the_vanished_messenger",
+                "the_unlikely_spy_a01",
+                "the_technology_of_espionage",
+                "without_cloak_or_dagger",
+                "enemy_in_the_shadows",
+                "the_kingdom_of_the_blind",
+                "no_other_choice_a01",
+                "spy_science",
+                "secret_service_thirty_three_centuries_of_espionage",
+                "the_ultimate_spy_book",
+                "total_surveillance",
+                "spies_and_spying",
+                "intelligence_and_the_new_world_order",
+                "the_big_brother_game",
+                "the_bulgarian_umbrella_a01",
+                "the_debatable_land",
+                "the_making_of_a_spy",
+                "great_true_spy_stories_a01",
+                "double_jeopardy_a20",
+                "reilly_ace_of_spies",
+                "the_new_spies",
+                "the_second_oldest_profession",
+                "secret_service_a05",
+                "espionage_a03",
+                "espionage_a04",
+                "struggle_in_the_dark",
+                "war_of_wits",
+                "the_great_game_a06",
+                "the_making_of_a_spy_a01",
+                "true_spy_stories_a02",
+                "brasseys_book_of_espionage",
+                "spying",
+                "the_spy_who_never_was_and_other_true_spy_stories",
+                "red_spy_at_night",
+                "making_spies",
+                "ultimate_spy_a01",
+                "the_master_book_of_spies_a01",
+                "ultimate_spy",
+                "spies_a06",
+                "spies_a14",
+                "wars_without_end_a01",
+                "the_science_of_spying",
+                "the_truth_about_hollis",
+                "world_history_of_espionage",
+                "the_making_of_a_spy_a02",
+                "spy_science_a01",
+                "internet_spy",
+                "intelligence_in_an_insecure_world",
+                "intelligence_in_an_insecure_world_a01",
+                "spies_a03",
+                "twenty_five_years_in_the_secret_service",
+                "spies_of_the_oss",
+                "the_secret_war_for_europe",
+                "the_new_spies_a01",
+                "the_craft_of_intelligence_a02",
+                "bezopasnost_bankovskikh_sistem",
+                "korporativnaia_razvedka",
+                "the_spymasters_of_israel_a01",
+                "a_handbook_for_spies",
+                "total_surveillance_a01",
+                "modern_day_ninjutsu",
+                "the_worlds_greatest_spies_and_spymasters_a01",
+                "the_real_spy_world",
+                "the_secret_world_war_ii",
+                "running_a_ring_of_spies",
+                "the_real_spy_world_a01",
+                "the_big_brother_game_a01",
+                "the_big_brother_game_a02",
+                "espionage_a08",
+                "spy_photographed_by_geoff_dann_and_steve_gorton",
+                "spies_among_us",
+                "the_secret_war_a11",
+                "pavel_and_i",
+                "stealing_secrets_telling_lies",
+                "spies_real_people_real_stories",
+                "spies_real_people_real_stories_a01",
+                "the_cold_war_pigeon_patrols_and_other_animal_spies",
+                "the_cold_war_pigeon_patrols_and_other_animal_spies_a01",
+                "ssst_vertel_het_de_russen",
+                "why_spy_espionage_in_an_age_of_uncertainty",
+                "the_ultimate_spy",
+                "enemy_in_the_shadows_a01",
+                "spies_among_us_a01",
+                "inside_americas_cia_the_central_intelligence_agency",
+                "spies_a30",
+                "spies_a31",
+                "the_worlds_greatest_spies_and_spymasters",
+                "beyond_cloak_and_dagger_inside_the_cia",
+                "the_fall_of_spydom",
+                "in_the_line_of_fire_a05",
+                "spinning_intelligence_why_intelligence_needs_the_media_why_t",
+                "spying_on_science_western_intelligence_in_divided_germany_19"
+            ],
+            "books_count": "110",
+            "name": "Espionage",
+            "name_latin": "Espionage",
+            "subject_id": "espionage"
+        },
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "richelson_jeffrey",
+                        "name": "Richelson, Jeffrey"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "a_century_of_spies",
+                "dewey_decimal": "327.120904",
+                "dewey_normal": "327.120904",
+                "edition_info": "",
+                "isbn10": "0195073916",
+                "isbn13": "9780195073911",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "Paperback ed. first issued 1997.",
+                "physical_description_text": "534p ; 24cm.",
+                "publisher_id": "oxford_university_press",
+                "publisher_name": "Oxford University Press",
+                "publisher_text": "Oxford : Oxford University Press, 1995.",
+                "subject_ids": [
+                    "espionage",
+                    "espionage_history_20th_century",
+                    "spies_biography"
+                ],
+                "summary": "",
+                "title": "A century of spies",
+                "title_latin": "A century of spies",
+                "title_long": "A century of spies: intelligence in the twentieth century",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "sarbin_theodore_r",
+                        "name": "Sarbin, Theodore R."
+                    },
+                    {
+                        "id": "carney_ralph_m",
+                        "name": "Carney, Ralph M."
+                    },
+                    {
+                        "id": "eoyang_carson",
+                        "name": "Eoyang, Carson"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "citizen_espionage",
+                "dewey_decimal": "364.1/31",
+                "dewey_normal": "364.131",
+                "edition_info": "(alk. paper)",
+                "isbn10": "0275947521",
+                "isbn13": "9780275947521",
+                "language": "eng",
+                "lcc_number": "HV6275",
+                "marc_enc_level": "",
+                "notes": "Edited versions of a colloquium series sponsored by the Defense Personnel Security Research Center.\n\nIncludes bibliographical references (p. [189]-201) and index.",
+                "physical_description_text": "x, 213 p. : ill. ; 25 cm.",
+                "publisher_id": "praeger",
+                "publisher_name": "Praeger",
+                "publisher_text": "Westport, Conn. : Praeger, 1994.",
+                "subject_ids": [
+                    "treason",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Citizen espionage",
+                "title_latin": "Citizen espionage",
+                "title_long": "Citizen espionage: studies in trust and betrayal",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "henderson_bruce",
+                        "name": "Henderson, Bruce"
+                    },
+                    {
+                        "id": "cyr_c_c",
+                        "name": "Cyr, C. C."
+                    },
+                    {
+                        "id": "mr_x",
+                        "name": "Mr X"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "double_eagle_a01",
+                "dewey_decimal": "327/.12/0924",
+                "dewey_normal": "327.120924",
+                "edition_info": "",
+                "isbn10": "0672525267",
+                "isbn13": "9780672525261",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "~",
+                "notes": "Includes index.",
+                "physical_description_text": "x, 227 p. ; 24 cm.",
+                "publisher_id": "bobbs_merrill",
+                "publisher_name": "Bobbs-Merrill",
+                "publisher_text": "Indianapolis : Bobbs-Merrill, c1979.",
+                "subject_ids": [
+                    "x_mr",
+                    "spies_poland_biography",
+                    "espionage",
+                    "mr_x"
+                ],
+                "summary": "",
+                "title": "Double eagle",
+                "title_latin": "Double eagle",
+                "title_long": "Double eagle: the autobiography of a Polish spy who defected to the West",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "henderson_bruce",
+                        "name": "Henderson, Bruce"
+                    },
+                    {
+                        "id": "cyr_c_c",
+                        "name": "Cyr, C. C."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "double_eagle_a02",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0345301927",
+                "isbn13": "9780345301925",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "i",
+                "notes": "Includes index.",
+                "physical_description_text": "277 p. ; 18 cm.",
+                "publisher_id": "ballantine_books",
+                "publisher_name": "Ballantine Books",
+                "publisher_text": "New York : Ballantine Books, 1983 c1979.",
+                "subject_ids": [
+                    "x_mr",
+                    "spies_poland_biography",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Double eagle",
+                "title_latin": "Double eagle",
+                "title_long": "Double eagle: the autobiography of a Polish spy who defected to the West",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "west_nigel",
+                        "name": "West, Nigel"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "games_of_intelligence",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "2695",
+                "isbn10": "0297793322",
+                "isbn13": "9780297793328",
+                "language": "eng",
+                "lcc_number": "UB250",
+                "marc_enc_level": "",
+                "notes": "Includes index.\n\nBibliography: p. [219]-233.",
+                "physical_description_text": "viii, 248 p., [8] p. of plates : ill. ; 24 cm.",
+                "publisher_id": "weidenfeld_and_nicolson",
+                "publisher_name": "Weidenfeld and Nicolson",
+                "publisher_text": "London : Weidenfeld and Nicolson, 1989.",
+                "subject_ids": [
+                    "espionage",
+                    "secret_service",
+                    "intelligence_service"
+                ],
+                "summary": "",
+                "title": "Games of intelligence",
+                "title_latin": "Games of intelligence",
+                "title_long": "Games of intelligence: the classified conflict of international espionage",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "west_nigel",
+                        "name": "West, Nigel"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "games_of_intelligence_a01",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0517578115",
+                "isbn13": "9780517578117",
+                "language": "eng",
+                "lcc_number": "JF1525",
+                "marc_enc_level": "",
+                "notes": "Includes bibliographical references (p. 219-233) and index",
+                "physical_description_text": "viii, 248 p., [8] p. of plates : ill. ; 24 cm",
+                "publisher_id": "crown_pubublishers",
+                "publisher_name": "Crown Pubublishers",
+                "publisher_text": "New York : Crown Pubublishers, 1989",
+                "subject_ids": [
+                    "intelligence_service",
+                    "secret_service",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Games of intelligence",
+                "title_latin": "Games of intelligence",
+                "title_long": "Games of intelligence: the classified conflict of international espionage",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "dulles_allen_welsh",
+                        "name": "Dulles, Allen Welsh"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "great_true_spy_stories",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "(pbk.) :$3.50",
+                "isbn10": "0345301811",
+                "isbn13": "9780345301819",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "i",
+                "notes": "Reprint. Original ed. New York : Harper & Row, 1968.",
+                "physical_description_text": "xx, 491 p. ; 18 cm.",
+                "publisher_id": "ballantine",
+                "publisher_name": "Ballantine",
+                "publisher_text": "New York : Ballantine, 1982, c1968.",
+                "subject_ids": [
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Great true spy stories",
+                "title_latin": "Great true spy stories",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "lang_patrick",
+                        "name": "Lang, Patrick"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "intelligence_the_human_factor",
+                "dewey_decimal": "327.1273",
+                "dewey_normal": "327.1273",
+                "edition_info": "",
+                "isbn10": "0791076164",
+                "isbn13": "9780791076163",
+                "language": "eng",
+                "lcc_number": "JK468",
+                "marc_enc_level": "4",
+                "notes": "Includes bibliographical references (p. 88-89) and index.\n\nIntelligence and its heroes -- Collection in all its varieties -- Arnold Deutsch (a master of the dark art and his work) -- The recruiter--the essential man? -- The operational cycle -- The operational cycle -- The future of HUMINT -- A career in HUMINT?",
+                "physical_description_text": "100 p. : ill. ; 24 cm.",
+                "publisher_id": "chelsea_house_publishers",
+                "publisher_name": "Chelsea House Publishers",
+                "publisher_text": "Philadelphia : Chelsea House Publishers, c2003.",
+                "subject_ids": [
+                    "intelligence_service_united_states_juvenile_literature",
+                    "espionage_united_states_juvenile_literature",
+                    "intelligence_service",
+                    "espionage"
+                ],
+                "summary": "Looks at how humans interact with technology when gathering and working with intelligence that concerns the security of the United States, particularly since the terrorist attacks on September 11, 2001.",
+                "title": "Intelligence: the human factor",
+                "title_latin": "Intelligence: the human factor",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "bergier_jacques",
+                        "name": "Bergier, Jacques"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "secret_armies_a01",
+                "dewey_decimal": "658.4/7",
+                "dewey_normal": "658.47",
+                "edition_info": "",
+                "isbn10": "0672519186",
+                "isbn13": "9780672519185",
+                "language": "eng",
+                "lcc_number": "HD38",
+                "marc_enc_level": "",
+                "notes": "Translation of the author's three separate works originally published under titles: L'espionnage industriel, L'espionnage scientifique, and L'espionnage strat\u00ef\u00bf\u00bdgique.",
+                "physical_description_text": "268 p. ; 24 cm.",
+                "publisher_id": "bobbs_merrill",
+                "publisher_name": "Bobbs-Merrill",
+                "publisher_text": "Indianapolis : Bobbs-Merrill, c1975.",
+                "subject_ids": [
+                    "business_intelligence",
+                    "espionage",
+                    "military_intelligence"
+                ],
+                "summary": "",
+                "title": "Secret armies",
+                "title_latin": "Secret armies",
+                "title_long": "Secret armies: the growth of corporate and industrial espionage",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "murphy_brian_e",
+                        "name": "Murphy, Brian E."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_business_of_spying",
+                "dewey_decimal": "327/.12",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "0859400298",
+                "isbn13": "9780859400299",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "Includes index.",
+                "physical_description_text": "208 p. : ill. (some col.), facsims., ports. ; 28 cm.",
+                "publisher_id": "milton_house_books",
+                "publisher_name": "Milton House Books",
+                "publisher_text": "Aylesbury, U.K. : Milton House Books, 1973.",
+                "subject_ids": [
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "The business of spying",
+                "title_latin": "business of spying",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "dulles_allen_welsh",
+                        "name": "Dulles, Allen Welsh"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_craft_of_intelligence",
+                "dewey_decimal": "327/.12",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "0837194520",
+                "isbn13": "9780837194523",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "Reprint of the ed. published by Harper & Row, New York.\n\nIncludes index.\n\nBibliography: p. 265-267.",
+                "physical_description_text": "viii, 277 p., [4] leaves of plates : ill. ; 23 cm.",
+                "publisher_id": "greenwood_press",
+                "publisher_name": "Greenwood Press",
+                "publisher_text": "Westport, Conn. : Greenwood Press, 1977, c1963.",
+                "subject_ids": [
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "",
+                "title": "The craft of intelligence",
+                "title_latin": "craft of intelligence",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "marenches_alexandre_de",
+                        "name": "Marenches, Alexandre de"
+                    },
+                    {
+                        "id": "andelman_david",
+                        "name": "Andelman, David"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_fourth_world_war",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0688092187",
+                "isbn13": "9780688092184",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "\"An updated and adapted version of the original work Dans le secret des princes, published in 1986 by Editions Stock and signed Alexandre de Marenches and Christine Ockrent\"--T.p. verso.\n\nIncludes index.",
+                "physical_description_text": "281 p. ; 25 cm.",
+                "publisher_id": "morrow",
+                "publisher_name": "Morrow",
+                "publisher_text": "New York : Morrow, c1992.",
+                "subject_ids": [
+                    "world_politics_1989",
+                    "diplomacy",
+                    "terrorism",
+                    "espionage",
+                    "northern_hemisphere_foreign_relations_southern_hemisphere",
+                    "southern_hemisphere_foreign_relations_northern_hemisphere"
+                ],
+                "summary": "",
+                "title": "The fourth world war",
+                "title_latin": "fourth world war",
+                "title_long": "The fourth world war: diplomacy and espionage in the age of terrorism",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "rusbridger_james",
+                        "name": "Rusbridger, James"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_intelligence_game",
+                "dewey_decimal": "327.1/2",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "0370312422",
+                "isbn13": "9780370312422",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "Espionage (BNB/PRECIS)\n\nIncludes bibliography and index.",
+                "physical_description_text": "viii, 278 p., [8] p. of plates : ill. ; 24cm.",
+                "publisher_id": "bodley_head",
+                "publisher_name": "Bodley Head",
+                "publisher_text": "London : Bodley Head, 1989.",
+                "subject_ids": [
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "The intelligence game",
+                "title_latin": "intelligence game",
+                "title_long": "The intelligence game: the illusions and delusions of international espionage",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "mccormick_donald_b",
+                        "name": "McCormick, Donald B."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_master_book_of_spies",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0531024156",
+                "isbn13": "9780531024157",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "",
+                "physical_description_text": "190 p. illus. 27 cm.",
+                "publisher_id": "f_watts",
+                "publisher_name": "F. Watts",
+                "publisher_text": "New York, F. Watts, 1974.",
+                "subject_ids": [
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "",
+                "title": "The master book of spies",
+                "title_latin": "master book of spies",
+                "title_long": "The master book of spies; the world of espionage, master spies, tortures, interrogations, spy equipment, escapes, codes & how you can become a spy",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "martini_teri",
+                        "name": "Martini, Teri"
+                    },
+                    {
+                        "id": "morrill_leslie_h",
+                        "name": "Morrill, Leslie H."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_secret_is_out",
+                "dewey_decimal": "327.1/2/0922",
+                "dewey_normal": "327.120922",
+                "edition_info": "$14.95 ($18.95 Can.)",
+                "isbn10": "0316548642",
+                "isbn13": "9780316548649",
+                "language": "eng",
+                "lcc_number": "UB270.5",
+                "marc_enc_level": "",
+                "notes": "Includes bibliographical references (p. 135-136).",
+                "physical_description_text": "136 p. : ill. ; 22 cm.",
+                "publisher_id": "little_brown",
+                "publisher_name": "Little, Brown",
+                "publisher_text": "Boston : Little, Brown, c1990.",
+                "subject_ids": [
+                    "spies_biography_juvenile_literature",
+                    "espionage_history_juvenile_literature",
+                    "spies",
+                    "espionage"
+                ],
+                "summary": "Highlights the daring escapades of such spies as Mata Hari, Lawrence of Arabia, Fritz Kolbe, Belle Boyd, and Kim Philby.",
+                "title": "The secret is out",
+                "title_latin": "secret is out",
+                "title_long": "The secret is out: true spy stories",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "russell_francis",
+                        "name": "Russell, Francis"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_secret_war_a04",
+                "dewey_decimal": "940.54/85",
+                "dewey_normal": "940.5485",
+                "edition_info": "",
+                "isbn10": "0809425483",
+                "isbn13": "9780809425488",
+                "language": "eng",
+                "lcc_number": "D810",
+                "marc_enc_level": "",
+                "notes": "Includes index.\n\nBibliography: p. 202-203.",
+                "physical_description_text": "208 p. : ill. ; 29 cm.",
+                "publisher_id": "time_life_books",
+                "publisher_name": "Time-Life Books",
+                "publisher_text": "Alexandria, Va. : Time-Life Books, c1981.",
+                "subject_ids": [
+                    "world_war_1939_1945_secret_service",
+                    "world_war_1939_1945_cryptography",
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "",
+                "title": "The secret war",
+                "title_latin": "secret war",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "lasota_irena",
+                        "name": "Lasota, Irena"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "z_lewa_i_z_prawa",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0935417087",
+                "isbn13": "9780935417081",
+                "language": "pol",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "",
+                "physical_description_text": "",
+                "publisher_id": "idee",
+                "publisher_name": "IDEE",
+                "publisher_text": "New York : IDEE, 1988.",
+                "subject_ids": [
+                    "world_politics_1975_1985",
+                    "espionage",
+                    "terrorism"
+                ],
+                "summary": "",
+                "title": "Z lewa i z prawa",
+                "title_latin": "",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "hall_richard_l",
+                        "name": "Hall, Richard L."
+                    },
+                    {
+                        "id": "wright_peter",
+                        "name": "Wright, Peter"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "a_spys_revenge",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0140523898",
+                "isbn13": "9780140523898",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "7",
+                "notes": "",
+                "physical_description_text": "193 s.",
+                "publisher_id": "penguin_books",
+                "publisher_name": "Penguin Books",
+                "publisher_text": "Harmondsworth : Penguin Books, 1987",
+                "subject_ids": [
+                    "espionage",
+                    "spies_biography",
+                    "wright_peter",
+                    "spioneri_storbritannien"
+                ],
+                "summary": "",
+                "title": "A spy's revenge",
+                "title_latin": "spy's revenge",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "oppenheim_e_phillips",
+                        "name": "Oppenheim, E. Phillips"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_vanished_messenger",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "(electronic bk.)",
+                "isbn10": "0585016941",
+                "isbn13": "9780585016948",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "eBook.\n\nElectronic reproduction.Boulder, Colo. :NetLibrary,2001.Available via World Wide Web.Access may be limited to NetLibrary affiliated libraries.",
+                "physical_description_text": "",
+                "publisher_id": "project_gutenberg",
+                "publisher_name": "Project Gutenberg",
+                "publisher_text": "Champaign, Ill. (P.O. Box 2782, Champaign 61825) : Project Gutenberg, [199-?].",
+                "subject_ids": [
+                    "spy_stories",
+                    "espionage",
+                    "electronic_books"
+                ],
+                "summary": "eBook.",
+                "title": "The vanished messenger",
+                "title_latin": "vanished messenger",
+                "title_long": "",
+                "urls_text": "Bibliographic record display http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1085507 An electronic book accessible through the World Wide Web; click for information"
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "silva_daniel",
+                        "name": "Silva, Daniel"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_unlikely_spy_a01",
+                "dewey_decimal": "823/.914",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0786211016",
+                "isbn13": "9780786211012",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "",
+                "physical_description_text": "847 p. (large print) ; 23 cm.",
+                "publisher_id": "thorndike_press",
+                "publisher_name": "Thorndike Press",
+                "publisher_text": "Thorndike, Me. : Thorndike Press, 1997.",
+                "subject_ids": [
+                    "world_war_1939_1945_england_london_fiction",
+                    "espionage",
+                    "large_type_books",
+                    "suspense_fiction",
+                    "spy_stories"
+                ],
+                "summary": "",
+                "title": "The unlikely spy",
+                "title_latin": "unlikely spy",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "paine_lauran",
+                        "name": "Paine, Lauran"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_technology_of_espionage",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0709168322",
+                "isbn13": "9780709168324",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "Includes index.\n\nBibliography: p. [185]-186.",
+                "physical_description_text": "191 p., [8] p. of plates : ill., ports. ; 23 cm.",
+                "publisher_id": "hale",
+                "publisher_name": "Hale",
+                "publisher_text": "London : Hale, 1978.",
+                "subject_ids": [
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "The technology of espionage",
+                "title_latin": "technology of espionage",
+                "title_long": "",
+                "urls_text": "Georgetown holdings http://library.georgetown.edu/search/i?=0709168322"
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "copeland_miles",
+                        "name": "Copeland, Miles"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "without_cloak_or_dagger",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0671216627",
+                "isbn13": "9780671216627",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "Includes bibliographical references and index.",
+                "physical_description_text": "351 p. ; 23 cm.",
+                "publisher_id": "simon_and_schuster",
+                "publisher_name": "Simon and Schuster",
+                "publisher_text": "New York : Simon and Schuster, c1974.",
+                "subject_ids": [
+                    "espionage",
+                    "intelligence_service"
+                ],
+                "summary": "",
+                "title": "Without cloak or dagger",
+                "title_latin": "Without cloak or dagger",
+                "title_long": "Without cloak or dagger: the truth about the new espionage",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "gelb_norman",
+                        "name": "Gelb, Norman"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "enemy_in_the_shadows",
+                "dewey_decimal": "327/.12",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "0860020819",
+                "isbn13": "9780860020813",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "Includes index",
+                "physical_description_text": "157p,[8]p of plates ill ports 22cm",
+                "publisher_id": "luscombe",
+                "publisher_name": "Luscombe",
+                "publisher_text": "London Luscombe 1976",
+                "subject_ids": [
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Enemy in the shadows",
+                "title_latin": "Enemy in the shadows",
+                "title_long": "Enemy in the shadows the world of spies and spying",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "oppenheim_e_phillips",
+                        "name": "Oppenheim, E. Phillips"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_kingdom_of_the_blind",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "(electronic bk.)",
+                "isbn10": "0585013551",
+                "isbn13": "9780585013558",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "l",
+                "notes": "Access may be limited to NetLibrary affiliated libraries.",
+                "physical_description_text": "",
+                "publisher_id": "project_gutenberg",
+                "publisher_name": "Project Gutenberg",
+                "publisher_text": "Champaign, Ill. : Project Gutenberg ; [199-?]",
+                "subject_ids": [
+                    "spy_stories",
+                    "espionage",
+                    "electronic_books"
+                ],
+                "summary": "",
+                "title": "The kingdom of the blind",
+                "title_latin": "kingdom of the blind",
+                "title_long": "",
+                "urls_text": "http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1085138 An electronic book accessible through the World Wide Web; click for information"
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "blake_george",
+                        "name": "Blake, George"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "no_other_choice_a01",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0224030671",
+                "isbn13": "9780224030670",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "",
+                "physical_description_text": "xi, 288 p., [8] p. of plates : ill., ports ; 24 cm.",
+                "publisher_id": "jonathan_cape",
+                "publisher_name": "Jonathan Cape",
+                "publisher_text": "London : Jonathan Cape, 1990.",
+                "subject_ids": [
+                    "blake_george_1922",
+                    "spies_soviet_union_biography",
+                    "spies_great_britain_biography",
+                    "espionage_soviet_great_britain",
+                    "biography",
+                    "espionage",
+                    "spies",
+                    "great_britain",
+                    "ussr"
+                ],
+                "summary": "",
+                "title": "No other choice",
+                "title_latin": "No other choice",
+                "title_long": "No other choice: an autobiography",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "wiese_jim",
+                        "name": "Wiese, Jim"
+                    },
+                    {
+                        "id": "shems_ed",
+                        "name": "Shems, Ed"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spy_science",
+                "dewey_decimal": "363.2/5931",
+                "dewey_normal": "363.25931",
+                "edition_info": "(electronic bk.)",
+                "isbn10": "0585295247",
+                "isbn13": "9780585295244",
+                "language": "eng",
+                "lcc_number": "JF1525",
+                "marc_enc_level": "",
+                "notes": "Includes index.\n\nAlso available as an electronic book via the World Wide Web to institutions affiliated with netLibrary, Inc.",
+                "physical_description_text": "viii, 120 p. : ill. ; 26 cm.",
+                "publisher_id": "wiley",
+                "publisher_name": "Wiley",
+                "publisher_text": "New York : Wiley, c1996.",
+                "subject_ids": [
+                    "espionage_juvenile_literature",
+                    "intelligence_service_juvenile_literature",
+                    "espionage",
+                    "intelligence_service",
+                    "experiments",
+                    "electronic_books"
+                ],
+                "summary": "Describes the skills, equipment, and techniques that spies use. Includes activities and experiments.",
+                "title": "Spy science",
+                "title_latin": "Spy science",
+                "title_long": "Spy science: 40 secret-sleuthing, code-cracking, spy-catching activities for kids",
+                "urls_text": "Contributor biographical information http://www.loc.gov/catdir/bios/wiley041/96007019.html\n\nhttp://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=26341\n\nPublisher description http://www.loc.gov/catdir/description/wiley032/96007019.html\n\nTable of Contents http://www.loc.gov/catdir/toc/onix03/96007019.html"
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "rowan_richard_l",
+                        "name": "Rowan, Richard L."
+                    },
+                    {
+                        "id": "deindorfer_robert_g",
+                        "name": "Deindorfer, Robert G."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "secret_service_thirty_three_centuries_of_espionage",
+                "dewey_decimal": "327/.12",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "071830201X",
+                "isbn13": "9780718302016",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "1937 ed. published under title: The story of secret service.\n\nRevised ed. of The story of secret service by Richard Wilmer Rowan, New York, Doubleday, Doran, 1937.\n\nBibliographical references included in \"Notes\" (p. 687-746)",
+                "physical_description_text": "xi, 786 p. illus. 24 cm.",
+                "publisher_id": "hawthorn_books",
+                "publisher_name": "Hawthorn Books",
+                "publisher_text": "New York, Hawthorn Books [1967]",
+                "subject_ids": [
+                    "espionage",
+                    "secret_service"
+                ],
+                "summary": "",
+                "title": "Secret service",
+                "title_latin": "Secret service",
+                "title_long": "Secret service; thirty-three centuries of espionage",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "melton_h_keith",
+                        "name": "Melton, H. Keith"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_ultimate_spy_book",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "0789404435",
+                "isbn13": "9780789404435",
+                "language": "eng",
+                "lcc_number": "JF1525",
+                "marc_enc_level": "",
+                "notes": "Includes index.",
+                "physical_description_text": "176 p. : ill. (some col.) ; 29 cm.",
+                "publisher_id": "dk_pub",
+                "publisher_name": "DK Pub",
+                "publisher_text": "New York : DK Pub. ; 1996.",
+                "subject_ids": [
+                    "espionage",
+                    "intelligence_service"
+                ],
+                "summary": "",
+                "title": "The ultimate spy book",
+                "title_latin": "ultimate spy book",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "parker_john",
+                        "name": "Parker, John"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "total_surveillance",
+                "dewey_decimal": "323.4482",
+                "dewey_normal": "323.4482",
+                "edition_info": "(pbk.)",
+                "isbn10": "0749922265",
+                "isbn13": "9780749922269",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "Includes bibliographical references and index.\n\nBibliography.",
+                "physical_description_text": "330 p., [8]p. of plates : ill., facsims., ports. ; 24 cm.",
+                "publisher_id": "piatkus",
+                "publisher_name": "Piatkus",
+                "publisher_text": "London : Piatkus, 2000",
+                "subject_ids": [
+                    "privacy_right_of",
+                    "espionage",
+                    "eavesdropping"
+                ],
+                "summary": "",
+                "title": "Total surveillance",
+                "title_latin": "Total surveillance",
+                "title_long": "Total surveillance: investigating the Big Brother world of e-spies, eavesdroppers and CCTV",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "sweetman_david",
+                        "name": "Sweetman, David"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spies_and_spying",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "\u00ef\u00bf\u00bd3.50",
+                "isbn10": "085340397X",
+                "isbn13": "9780853403975",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "i",
+                "notes": "Includes index.\n\nBibliography: p. 94.",
+                "physical_description_text": "95 p. : ill., ports. ; 24 cm.",
+                "publisher_id": "wayland",
+                "publisher_name": "Wayland",
+                "publisher_text": "Hove, East Sussex, Eng. : Wayland, 1978.",
+                "subject_ids": [
+                    "intelligence_service_history",
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "",
+                "title": "Spies and spying",
+                "title_latin": "Spies and spying",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "runde_carl_peter",
+                        "name": "Runde, Carl Peter"
+                    },
+                    {
+                        "id": "voss_greg",
+                        "name": "Voss, Greg"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "intelligence_and_the_new_world_order",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0923128069",
+                "isbn13": "9780923128067",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "\"Proceedings of Assessing U.S. Intelligence needs for the 1990's ... September and October 1991 in Washington, D.C. and National Intelligence Agencies in the period of European partnership ... November 15, 1991 in Potsdam, Federal Republic of Germany\"--T.p. verso.\n\nIncludes bibliographical references and index.",
+                "physical_description_text": "xvi, 177 p. : ill. ; 21 cm.",
+                "publisher_id": "international_freedom_foundati",
+                "publisher_name": "International Freedom Foundation",
+                "publisher_text": "Buxtehude, Federal Republic of Germany : International Freedom Foundation, c 1992.",
+                "subject_ids": [
+                    "intelligence_service",
+                    "espionage",
+                    "world_politics_1985_1995",
+                    "international_relations"
+                ],
+                "summary": "",
+                "title": "Intelligence and the new world order",
+                "title_latin": "Intelligence and the new world order",
+                "title_long": "Intelligence and the new world order: former cold war adversaries look toward the 21st century",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "french_scott_r",
+                        "name": "French, Scott R."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_big_brother_game",
+                "dewey_decimal": "323.44",
+                "dewey_normal": "323.44",
+                "edition_info": "",
+                "isbn10": "0915914018",
+                "isbn13": "9780915914012",
+                "language": "eng",
+                "lcc_number": "JC597",
+                "marc_enc_level": "",
+                "notes": "",
+                "physical_description_text": "237 p. : ill. ; 28 cm.",
+                "publisher_id": "gnu_pub",
+                "publisher_name": "Gnu Pub",
+                "publisher_text": "San Francisco : Gnu Pub., c1975.",
+                "subject_ids": [
+                    "privacy_right_of",
+                    "espionage",
+                    "intelligence_service"
+                ],
+                "summary": "",
+                "title": "The big brother game",
+                "title_latin": "big brother game",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "kostov_vladimir",
+                        "name": "Kostov, Vladimir"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_bulgarian_umbrella_a01",
+                "dewey_decimal": "327.1/2/0924",
+                "dewey_normal": "327.120924",
+                "edition_info": "fi fi",
+                "isbn10": "0710812299",
+                "isbn13": "9780710812292",
+                "language": "eng",
+                "lcc_number": "UB271",
+                "marc_enc_level": "",
+                "notes": "Translation of: Le parapluie bulgare.\n\nIncludes bibliographies.",
+                "physical_description_text": "204 p. ; 23 cm.",
+                "publisher_id": "harvester_press",
+                "publisher_name": "Harvester Press",
+                "publisher_text": "Hemel Hempstead, Hertfordshire : Harvester Press ; 1988.",
+                "subject_ids": [
+                    "espionage",
+                    "spioneri_bulgarien",
+                    "spioneri_sovjetunionen",
+                    "kostov_vladimir",
+                    "spies_bulgaria_biography",
+                    "espionage_bulgaria_history_20th_century",
+                    "espionage_soviet_union_history_20th_century",
+                    "espionage_france_history_20th_century"
+                ],
+                "summary": "",
+                "title": "The Bulgarian umbrella",
+                "title_latin": "Bulgarian umbrella",
+                "title_long": "The Bulgarian umbrella: the Soviet direction and operations of the Bulgarian Secret Service in Europe",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "burn_michael",
+                        "name": "Burn, Michael"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_debatable_land",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0241017785",
+                "isbn13": "9780241017784",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "Includes bibliographical references.",
+                "physical_description_text": "x, 285 p., 12 plates (3 fold.). geneal. tables, maps (on lining papers), ports. 23 cm.",
+                "publisher_id": "hamilton",
+                "publisher_name": "Hamilton",
+                "publisher_text": "London, Hamilton, 1970.",
+                "subject_ids": [
+                    "espionage",
+                    "great_britain_history_elizabeth_1558_1603"
+                ],
+                "summary": "",
+                "title": "The debatable land",
+                "title_latin": "debatable land",
+                "title_long": "The debatable land: a study of the motives of spies in two ages",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "palmer_raymond_edward",
+                        "name": "Palmer, Raymond Edward"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_making_of_a_spy",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0517218682",
+                "isbn13": "9780517218686",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "i",
+                "notes": "",
+                "physical_description_text": "144 p. : ill. (some col.) ; 27 cm.",
+                "publisher_id": "crescent_books",
+                "publisher_name": "Crescent Books",
+                "publisher_text": "New York : Crescent Books, 1977.",
+                "subject_ids": [
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "",
+                "title": "The making of a spy",
+                "title_latin": "making of a spy",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "dulles_allen_welsh",
+                        "name": "Dulles, Allen Welsh"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "great_true_spy_stories_a01",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "089009716X",
+                "isbn13": "9780890097168",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "7",
+                "notes": "",
+                "physical_description_text": "xvii, 393 p. ; 24 cm.",
+                "publisher_id": "castle",
+                "publisher_name": "Castle",
+                "publisher_text": "Secaucus, N.J. : Castle, [1983] c1968.",
+                "subject_ids": [
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Great true spy stories",
+                "title_latin": "Great true spy stories",
+                "title_long": "",
+                "urls_text": "Georgetown holdings http://library.georgetown.edu/search/i?=089009716X"
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "paine_lauran",
+                        "name": "Paine, Lauran"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "double_jeopardy_a20",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "\u00ef\u00bf\u00bd4.80",
+                "isbn10": "0709164734",
+                "isbn13": "9780709164739",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "Includes index.\n\nBibliography: p. [186]-187.",
+                "physical_description_text": "191 p., [4] leaves of plates : ill., ports ; 23 cm.",
+                "publisher_id": "r_hale",
+                "publisher_name": "R. Hale",
+                "publisher_text": "London : R. Hale, 1978.",
+                "subject_ids": [
+                    "intelligence_service",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Double jeopardy",
+                "title_latin": "Double jeopardy",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "bruce_lockhart_robin",
+                        "name": "Lockhart, Robin Bruce"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "reilly_ace_of_spies",
+                "dewey_decimal": "327.1",
+                "dewey_normal": "327.1",
+                "edition_info": "(pbk) ;?1.95",
+                "isbn10": "0708820034",
+                "isbn13": "9780708820032",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "7",
+                "notes": "Originally published: London : Hodder & Stoughton, 1967",
+                "physical_description_text": "252 s.",
+                "publisher_id": "futura",
+                "publisher_name": "Futura",
+                "publisher_text": "London : Futura, 1983",
+                "subject_ids": [
+                    "reilly_sidney_1874_1925",
+                    "reilly_sidney",
+                    "spies_biography_great_britain",
+                    "espionage",
+                    "espionage_british_history_soviet_union_20th_century"
+                ],
+                "summary": "",
+                "title": "Reilly - ace of spies",
+                "title_latin": "Reilly - ace of spies",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "adams_james_l",
+                        "name": "Adams, James L."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_new_spies",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "0091740630",
+                "isbn13": "9780091740634",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "Includes bibliography (p.363-367) and index.",
+                "physical_description_text": "xix, 380 p. : ill ; 25 cm.",
+                "publisher_id": "hutchinson",
+                "publisher_name": "Hutchinson",
+                "publisher_text": "London : Hutchinson, 1994.",
+                "subject_ids": [
+                    "intelligence_service",
+                    "international_relations",
+                    "espionage",
+                    "intelligence_service_united_states",
+                    "intelligence_service_russia",
+                    "intelligence_service_great_britain",
+                    "terrorism"
+                ],
+                "summary": "",
+                "title": "The new spies",
+                "title_latin": "new spies",
+                "title_long": "The new spies: exploring the frontiers of espionage",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "knightley_phillip",
+                        "name": "Knightley, Phillip"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_second_oldest_profession",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "0233979689",
+                "isbn13": "9780233979687",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "Bibliography: p415-423. - Includes index.",
+                "physical_description_text": "xi, 436p, [16]p of plates : 1facsim, ports ; 24cm.",
+                "publisher_id": "deutsch",
+                "publisher_name": "Deutsch",
+                "publisher_text": "London : Deutsch, 1986.",
+                "subject_ids": [
+                    "espionage_history",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "The second oldest profession",
+                "title_latin": "second oldest profession",
+                "title_long": "The second oldest profession: the spy as bureaucrat, patriot, fantasist and whore",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "campbell_duncan",
+                        "name": "Campbell, Duncan"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "secret_service_a05",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0531170799",
+                "isbn13": "9780531170793",
+                "language": "eng",
+                "lcc_number": "JF1525",
+                "marc_enc_level": "",
+                "notes": "Includes index.",
+                "physical_description_text": "32 p. : ill. (some col. ) ; 30 cm.",
+                "publisher_id": "gloucester_press",
+                "publisher_name": "Gloucester Press",
+                "publisher_text": "New York : Gloucester Press, 1988.",
+                "subject_ids": [
+                    "intelligence_service_juvenile_literature",
+                    "intelligence_service",
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "",
+                "title": "Secret service",
+                "title_latin": "Secret service",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "wark_wesley_k",
+                        "name": "Wark, Wesley K."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "espionage_a03",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "071464515X",
+                "isbn13": "9780714645155",
+                "language": "eng",
+                "lcc_number": "JF1525",
+                "marc_enc_level": "",
+                "notes": "Originally published in: Intelligence and national security. - Vol.8, no.3 (July 1993).\n\nIncludes bibliographical references.",
+                "physical_description_text": "159 p. ; 22 cm.",
+                "publisher_id": "frank_cass",
+                "publisher_name": "Frank Cass",
+                "publisher_text": "Newbury Park, Ilford, Essex ; Frank Cass, 1994.",
+                "subject_ids": [
+                    "espionage",
+                    "intelligence_service",
+                    "intelligence_operations"
+                ],
+                "summary": "",
+                "title": "Espionage",
+                "title_latin": "Espionage",
+                "title_long": "Espionage: past, present, future?",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "wark_wesley_k",
+                        "name": "Wark, Wesley K."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "espionage_a04",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "(pbk.)",
+                "isbn10": "0714640999",
+                "isbn13": "9780714640990",
+                "language": "eng",
+                "lcc_number": "JF1525",
+                "marc_enc_level": "",
+                "notes": "Originally published in: Intelligence and national security. - Vol.8, no.3 (July 1993).\n\nIncludes bibliographical references.",
+                "physical_description_text": "159 p. ; 22 cm.",
+                "publisher_id": "frank_cass",
+                "publisher_name": "Frank Cass",
+                "publisher_text": "Newbury Park, Ilford, Essex ; Frank Cass, 1994.",
+                "subject_ids": [
+                    "espionage",
+                    "intelligence_service",
+                    "intelligence_operations"
+                ],
+                "summary": "",
+                "title": "Espionage",
+                "title_latin": "Espionage",
+                "title_long": "Espionage: past, present, future?",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "hutton_joseph_bernard",
+                        "name": "Hutton, Joseph Bernard"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "struggle_in_the_dark",
+                "dewey_decimal": "327/.12/091717",
+                "dewey_normal": "327.12091717",
+                "edition_info": "",
+                "isbn10": "0245594868",
+                "isbn13": "9780245594861",
+                "language": "eng",
+                "lcc_number": "UB271",
+                "marc_enc_level": "",
+                "notes": "",
+                "physical_description_text": "208 p. 12 plates, illus., facsims., ports. 22 cm.",
+                "publisher_id": "toronto_etc_harrap",
+                "publisher_name": "Toronto [etc.] Harrap",
+                "publisher_text": "London : Toronto [etc.] Harrap, 1969.",
+                "subject_ids": [
+                    "espionage_soviet",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Struggle in the dark",
+                "title_latin": "Struggle in the dark",
+                "title_long": "Struggle in the dark: how Russian and other Iron Curtain spies operate",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "farago_ladislas",
+                        "name": "Farago, Ladislas"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "war_of_wits",
+                "dewey_decimal": "327/.12",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "0837185181",
+                "isbn13": "9780837185187",
+                "language": "eng",
+                "lcc_number": "UB250",
+                "marc_enc_level": "",
+                "notes": "Reprint of the ed. published by Funk & Wagnalls, New York.\n\nIncludes bibliographical references and index.",
+                "physical_description_text": "ix, 379 p., [4] leaves of plates : ill. ; 23 cm.",
+                "publisher_id": "greenwood_press",
+                "publisher_name": "Greenwood Press",
+                "publisher_text": "Westport, Conn. : Greenwood Press, 1976, c1954.",
+                "subject_ids": [
+                    "intelligence_service",
+                    "espionage",
+                    "sabotage",
+                    "propaganda"
+                ],
+                "summary": "",
+                "title": "War of wits",
+                "title_latin": "War of wits",
+                "title_long": "War of wits: the anatomy of espionage and intelligence",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "frederick_p_hitz",
+                        "name": "Hitz, Frederick P."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_great_game_a06",
+                "dewey_decimal": "823/.087209",
+                "dewey_normal": "823.087209",
+                "edition_info": "",
+                "isbn10": "0375412107",
+                "isbn13": "9780375412103",
+                "language": "eng",
+                "lcc_number": "PR830",
+                "marc_enc_level": "",
+                "notes": "Includes bibliographical references (p. 191-195) and index.",
+                "physical_description_text": "211 p. : ill. ; 23 cm.",
+                "publisher_id": "alfred_a_knopf",
+                "publisher_name": "Alfred A. Knopf",
+                "publisher_text": "New York : Alfred A. Knopf, 2004.",
+                "subject_ids": [
+                    "amazon_com_history_americas_united_states_20th_century_gener",
+                    "amazon_com_literature_fiction_world_literature_united__aaaa1",
+                    "amazon_com_literature_fiction_world_literature_united__aaae5",
+                    "amazon_com_literature_fiction_world_literature_united__aaac2",
+                    "hitz_frederick_porter_1939",
+                    "united_states_central_intelligence_agency_aaaa1",
+                    "spy_stories_english_history_and_criticism",
+                    "spy_stories_american_history_and_criticism",
+                    "popular_literature_english_speaking_countries_history_and_cr",
+                    "espionage_american",
+                    "espionage"
+                ],
+                "summary": "\"In this analysis, Frederick Hitz, former inspector general of the Central Intelligence Agency, contrasts the writings of well-known authors of spy novels - classic and popular - with real-life espionage cases. Drawing on personal experience both as a participant in \"the Great Game\" and as the first presidentially appointed inspector general, Hitz shows the remarkable degree to which truth is stranger than fiction.\".\n\n\"The vivid cast of characters includes real life spies Pyotr Popov and Oleg Penkovsky from Soviet military intelligence; Kim Philby, the infamous Soviet spy; Aldrich Ames, the most damaging CIA spy to American interests in the Cold War; and Duane Clarridge, a CIA career operations officer.\n\nThey are held up against such legendary genre spies as Bill Haydon (le Carre's mole in Tinker, Tailor, Soldier, Spy), Magnus Pym (in le Carre's A Perfect Spy), Tom Rogers (in David Ignatius's Agents of Innocence), and Maurice Castle (in Graham Greene's The Human Factor).\".\n\n\"As Hitz skillfully weaves examples from a wide range of espionage activities - from covert action to counterintelligence to classic agent operations - we see that the actual is often more compelling than the imaginary, and that real spy case histories present moral and other questions far more pointedly than fiction.\"--BOOK JACKET.",
+                "title": "The great game",
+                "title_latin": "great game",
+                "title_long": "The great game: the myth and reality of espionage",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "palmer_raymond_edward",
+                        "name": "Palmer, Raymond Edward"
+                    },
+                    {
+                        "id": "way_peter",
+                        "name": "Way, Peter"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_making_of_a_spy_a01",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "$25.00",
+                "isbn10": "0717281167",
+                "isbn13": "9780717281169",
+                "language": "eng",
+                "lcc_number": "Z103.3",
+                "marc_enc_level": "",
+                "notes": "Includes index.\n\nFirst published in the United Kingdom in 1977 by Aldus Books Limited.",
+                "physical_description_text": "144 p. : ill. (some col.), facsims., ports. (some col.) ; 27 cm.",
+                "publisher_id": "danbury_press",
+                "publisher_name": "Danbury Press",
+                "publisher_text": "[Danbury, CT] : Danbury Press, 1977.",
+                "subject_ids": [
+                    "espionage",
+                    "spies",
+                    "cryptography_history",
+                    "ciphers_history"
+                ],
+                "summary": "",
+                "title": "Codes and ciphers",
+                "title_latin": "Codes and ciphers",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "sweeney_james_johnson",
+                        "name": "Sweeney, James Johnson"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "true_spy_stories_a02",
+                "dewey_decimal": "940.54/85",
+                "dewey_normal": "940.5485",
+                "edition_info": "",
+                "isbn10": "0531043398",
+                "isbn13": "9780531043394",
+                "language": "eng",
+                "lcc_number": "D810",
+                "marc_enc_level": "",
+                "notes": "A very secret location -- You dirty rat -- Bah, bah, blacksheep -- Absolute secrecy-- almost -- Funeral for a Fr\u00ef\u00bf\u00bdulein -- An old man's medicine.",
+                "physical_description_text": "87 p. : ill. ; 22 cm.",
+                "publisher_id": "f_watts",
+                "publisher_name": "F. Watts",
+                "publisher_text": "New York : F. Watts, 1981.",
+                "subject_ids": [
+                    "world_war_1939_1945_secret_service_juvenile_literature",
+                    "spies_juvenile_literature",
+                    "world_war_1939_1945_secret_service",
+                    "spies",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "True spy stories",
+                "title_latin": "True spy stories",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "laffin_john",
+                        "name": "Laffin, John"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "brasseys_book_of_espionage",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "1857531442",
+                "isbn13": "9781857531442",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "8",
+                "notes": "Includes bibliographical references and index.",
+                "physical_description_text": "vii, 232 p., [16] p. of plates : ill. ; 25 cm.",
+                "publisher_id": "brasseys",
+                "publisher_name": "Brassey's",
+                "publisher_text": "Washington, D.C. : Brassey's, 1996.",
+                "subject_ids": [
+                    "espionage",
+                    "intelligence_service"
+                ],
+                "summary": "",
+                "title": "Brassey's book of espionage",
+                "title_latin": "Brassey's book of espionage",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "ron_fridell",
+                        "name": "Fridell, Ron"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spying",
+                "dewey_decimal": "327.1273",
+                "dewey_normal": "327.1273",
+                "edition_info": "(lib. bdg.)",
+                "isbn10": "0761316620",
+                "isbn13": "9780761316626",
+                "language": "eng",
+                "lcc_number": "JK468",
+                "marc_enc_level": "4",
+                "notes": "Includes bibliographical references (p. 138-139) and index.",
+                "physical_description_text": "143 p. : ill. ; 23 cm.",
+                "publisher_id": "twenty_first_century_books",
+                "publisher_name": "Twenty-first Century Books",
+                "publisher_text": "Brookfield, Conn. : Twenty-first Century Books, c2002.",
+                "subject_ids": [
+                    "united_states_central_intelligence_agency_juvenile_lit_aaaa0",
+                    "united_states_federal_bureau_of_investigation_juvenile_aaaa0",
+                    "united_states_national_security_agency_juvenile_literature",
+                    "intelligence_service",
+                    "espionage",
+                    "united_states_central_intelligence_agency_aaaa1",
+                    "united_states_federal_bureau_of_investigation_aaaa1",
+                    "united_states_national_security_agency_aaaa0",
+                    "intelligence_service_united_states_juvenile_literature",
+                    "espionage_united_states_juvenile_literature",
+                    "spies"
+                ],
+                "summary": "Examines the types of intelligence gathered by the CIA, the FBI, and the NSA, the technological and human resources used to gather such data, and the future of these three organizations.",
+                "title": "Spying",
+                "title_latin": "Spying",
+                "title_long": "Spying: the modern world of espionage",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "knight_david",
+                        "name": "Knight, David"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_spy_who_never_was_and_other_true_spy_stories",
+                "dewey_decimal": "327/.12/0922",
+                "dewey_normal": "327.120922",
+                "edition_info": "$5.95",
+                "isbn10": "0385131089",
+                "isbn13": "9780385131087",
+                "language": "eng",
+                "lcc_number": "UB270.5",
+                "marc_enc_level": "",
+                "notes": "Nathan Hale.--Lydia Darragh.--Emma Edmonds.--Alexander Scotland.--Mata Hari.--Major William Martin.--Velvalee Dickinson.--Major Peter Ortiz.--Colonel Rudolf I. Abel.--Francis Gary Powers.",
+                "physical_description_text": "iv, 136 p. ; 22 cm.",
+                "publisher_id": "doubleday",
+                "publisher_name": "Doubleday",
+                "publisher_text": "Garden City, N.Y. : Doubleday, c1978.",
+                "subject_ids": [
+                    "spies_juvenile_literature",
+                    "espionage_juvenile_literature",
+                    "spies",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "The spy who never was, and other true spy stories",
+                "title_latin": "spy who never was, and other true spy stories",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "pohl_wannenmacher_helga",
+                        "name": "Pohl-Wannenmacher, Helga"
+                    },
+                    {
+                        "id": "pohl_wannenmacher_belga",
+                        "name": "Pohl-Wannenmacher, Belga"
+                    },
+                    {
+                        "id": "wilson_rena",
+                        "name": "Wilson, Rena"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "red_spy_at_night",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "085052220X",
+                "isbn13": "9780850522204",
+                "language": "eng",
+                "lcc_number": "UB271",
+                "marc_enc_level": "",
+                "notes": "This translation originally published: London : New English Library, 1977",
+                "physical_description_text": "3-176p",
+                "publisher_id": "cooper",
+                "publisher_name": "Cooper",
+                "publisher_text": "London : Cooper, 1978",
+                "subject_ids": [
+                    "espionage",
+                    "spies_biography",
+                    "espionage_soviet_union_biography"
+                ],
+                "summary": "",
+                "title": "Red spy at night",
+                "title_latin": "Red spy at night",
+                "title_long": "Red spy at night: a true story of espionage and seduction behind the iron curtain",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "redlinger_lawrence_j",
+                        "name": "Redlinger, Lawrence J."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "making_spies",
+                "dewey_decimal": "327.1/2",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "0873643933",
+                "isbn13": "9780873643931",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "Includes index.\n\nBibliography: p. 253-268.",
+                "physical_description_text": "vii, 272 p. ; 23 cm.",
+                "publisher_id": "paladin_press",
+                "publisher_name": "Paladin Press",
+                "publisher_text": "Boulder, Co. : Paladin Press, c1986.",
+                "subject_ids": [
+                    "espionage",
+                    "spies_recruiting",
+                    "spies_training_of"
+                ],
+                "summary": "",
+                "title": "Making spies",
+                "title_latin": "Making spies",
+                "title_long": "Making spies: a talent spotter's handbook",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "helms_richard",
+                        "name": "Helms, Richard"
+                    },
+                    {
+                        "id": "wolf_markus",
+                        "name": "Wolf, Markus"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "ultimate_spy_a01",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "0751347914",
+                "isbn13": "9780751347913",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "Previous ed. published as: The ultimate spy book. 1996.\n\nIncludes index.",
+                "physical_description_text": "208 p. : ill. (chiefly col.), ports. (some col.), maps (some col.) ; 29 cm.",
+                "publisher_id": "dorling_kindersley",
+                "publisher_name": "Dorling Kindersley",
+                "publisher_text": "London : Dorling Kindersley, 2002.",
+                "subject_ids": [
+                    "espionage",
+                    "intelligence_service"
+                ],
+                "summary": "",
+                "title": "Ultimate spy",
+                "title_latin": "Ultimate spy",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "deacon_richard",
+                        "name": "Deacon, Richard"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_master_book_of_spies_a01",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0340175192",
+                "isbn13": "9780340175194",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "",
+                "physical_description_text": "3-190 p. illus. (some col.), facsims., ports. (some col.) 27 cm.",
+                "publisher_id": "hodder_causten",
+                "publisher_name": "Hodder Causten",
+                "publisher_text": "London, Hodder Causten, 1973.",
+                "subject_ids": [
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "",
+                "title": "The master book of spies",
+                "title_latin": "master book of spies",
+                "title_long": "The master book of spies; the world of espionage, master spies, tortures, interrogations, spy equipment, escapes, codes & how you can become a spy",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "melton_h_keith",
+                        "name": "Melton, H. Keith"
+                    },
+                    {
+                        "id": "helms_richard",
+                        "name": "Helms, Richard"
+                    },
+                    {
+                        "id": "wolf_markus",
+                        "name": "Wolf, Markus"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "ultimate_spy",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "(alk. paper)",
+                "isbn10": "0789489724",
+                "isbn13": "9780789489722",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "4",
+                "notes": "Rev. ed. of: The ultimate spy book. 1996.\n\nIncludes index.",
+                "physical_description_text": "208 p. : ill. (some col.) ; 29 cm.",
+                "publisher_id": "dk_pub",
+                "publisher_name": "DK Pub",
+                "publisher_text": "New York : DK Pub., 2002.",
+                "subject_ids": [
+                    "amazon_com_biographies_memoirs_professionals_academics_milit",
+                    "amazon_com_history_military_general",
+                    "amazon_com_history_military_intelligence_espionage",
+                    "amazon_com_history_military_strategy",
+                    "amazon_com_nonfiction_true_accounts_espionage",
+                    "amazon_com_biographies_memoirs_leaders_notable_people_milita",
+                    "espionage",
+                    "intelligence_service"
+                ],
+                "summary": "Learn about famous spies throughout history, how they were recruited, and what really happened during the most daring missions. With more than 700 full-color photos and illustrations, \"Ultimate Spy\" is the insiderUs guide to the secret world of espionage.",
+                "title": "Ultimate spy",
+                "title_latin": "Ultimate spy",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "platt_richard",
+                        "name": "Platt, Richard"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spies_a06",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "(pb)",
+                "isbn10": "078945713X",
+                "isbn13": "9780789457134",
+                "language": "eng",
+                "lcc_number": "JF1525",
+                "marc_enc_level": "4",
+                "notes": "",
+                "physical_description_text": "48 p. : col. ill. 23 cm.",
+                "publisher_id": "dorling_kindersley_pub",
+                "publisher_name": "Dorling Kindersley Pub",
+                "publisher_text": "New York : Dorling Kindersley Pub., c2000.",
+                "subject_ids": [
+                    "espionage_juvenile_literature",
+                    "spies_juvenile_literature",
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "Examines the history, motives, and actions of various spies, both criminal and governmental.",
+                "title": "Spies!",
+                "title_latin": "Spies!",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "platt_richard",
+                        "name": "Platt, Richard"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spies_a14",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "(hc)",
+                "isbn10": "0789457121",
+                "isbn13": "9780789457127",
+                "language": "eng",
+                "lcc_number": "JF1525",
+                "marc_enc_level": "4",
+                "notes": "",
+                "physical_description_text": "48 p. : col. ill. 23 cm.",
+                "publisher_id": "dorling_kindersley_pub",
+                "publisher_name": "Dorling Kindersley Pub",
+                "publisher_text": "New York : Dorling Kindersley Pub., c2000.",
+                "subject_ids": [
+                    "espionage_juvenile_literature",
+                    "spies_juvenile_literature",
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "Examines the history, motives, and actions of various spies, both criminal and governmental.",
+                "title": "Spies!",
+                "title_latin": "Spies!",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "downton_eric",
+                        "name": "Downton, Eric"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "wars_without_end_a01",
+                "dewey_decimal": "070.4/33/0924",
+                "dewey_normal": "70.4330924",
+                "edition_info": "$24.95",
+                "isbn10": "077372091X",
+                "isbn13": "9780773720916",
+                "language": "eng",
+                "lcc_number": "PN4913",
+                "marc_enc_level": "",
+                "notes": "Includes index.",
+                "physical_description_text": "350 p. ; 24 cm.",
+                "publisher_id": "stoddart",
+                "publisher_name": "Stoddart",
+                "publisher_text": "Toronto, Ont. : Stoddart, 1987.",
+                "subject_ids": [
+                    "downton_eric_1917",
+                    "war",
+                    "espionage",
+                    "war_correspondents_canada_biography"
+                ],
+                "summary": "",
+                "title": "Wars without end",
+                "title_latin": "Wars without end",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "cohen_daniel",
+                        "name": "Cohen, Daniel"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_science_of_spying",
+                "dewey_decimal": "327/.12/028",
+                "dewey_normal": "327.12028",
+                "edition_info": "lib. bdg. :$6.84",
+                "isbn10": "0070115788",
+                "isbn13": "9780070115781",
+                "language": "eng",
+                "lcc_number": "UB270.5",
+                "marc_enc_level": "",
+                "notes": "Includes index.\n\nBibliography: p. [107]-108.",
+                "physical_description_text": "112 p. ; 24 cm.",
+                "publisher_id": "mcgraw_hill",
+                "publisher_name": "McGraw-Hill",
+                "publisher_text": "New York : McGraw-Hill, c1977.",
+                "subject_ids": [
+                    "espionage_juvenile_literature",
+                    "espionage"
+                ],
+                "summary": "Discusses burglary, aerial photography, and other forms of technological spying used in contemporary espionage operations.",
+                "title": "The science of spying",
+                "title_latin": "science of spying",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "west_william_f",
+                        "name": "West, William F."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_truth_about_hollis",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "\u00ef\u00bf\u00bd14.95 : CIP confirmed",
+                "isbn10": "0715622862",
+                "isbn13": "9780715622865",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "Includes bibliographical references (p.222-223) and index.",
+                "physical_description_text": "x, 230 p. : plates. ; 24 cm.",
+                "publisher_id": "duckworth",
+                "publisher_name": "Duckworth",
+                "publisher_text": "London : Duckworth, 1989.",
+                "subject_ids": [
+                    "hollis_roger_sir_aaaa0",
+                    "great_britain_m15_history",
+                    "intelligence_officers_great_britain_biography",
+                    "hollis_roger",
+                    "espionage",
+                    "great_britain_mi5_history_aaaa0",
+                    "espionage_great_britain_history_20th_century"
+                ],
+                "summary": "",
+                "title": "The truth about Hollis",
+                "title_latin": "truth about Hollis",
+                "title_long": "The truth about Hollis: an investigation",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "piekalkiewicz_janusz_a01",
+                        "name": "Piekalkiewicz, Janusz"
+                    },
+                    {
+                        "id": "henhoeffer_william_h",
+                        "name": "Henhoeffer, William H."
+                    },
+                    {
+                        "id": "liebenau_gerald_l",
+                        "name": "Liebenau, Gerald L."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "world_history_of_espionage",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "3517008494",
+                "isbn13": "9783517008493",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "German ed. published: Munich : S\u00ef\u00bf\u00bddwest Verlag, c1988.\n\nIncludes bibliographical references (p. 823-64).",
+                "physical_description_text": "865 p. ; 28 cm.",
+                "publisher_id": "national_intelligence_book_cen",
+                "publisher_name": "National Intelligence Book Center",
+                "publisher_text": "Washington, D.C. : National Intelligence Book Center, c1998.",
+                "subject_ids": [
+                    "espionage",
+                    "spies",
+                    "secret_service"
+                ],
+                "summary": "",
+                "title": "World history of espionage",
+                "title_latin": "World history of espionage",
+                "title_long": "World history of espionage: agents, systems, operations",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "palmer_raymond_edward",
+                        "name": "Palmer, Raymond Edward"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_making_of_a_spy_a02",
+                "dewey_decimal": "327/.12",
+                "dewey_normal": "327.12",
+                "edition_info": "\u00ef\u00bf\u00bd3.95",
+                "isbn10": "0490003710",
+                "isbn13": "9780490003712",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "Includes index.",
+                "physical_description_text": "144 p. : ill. (some col.), facsims., col. maps, ports. (some col.) ; 27 cm.",
+                "publisher_id": "aldus_books",
+                "publisher_name": "Aldus Books",
+                "publisher_text": "London : Aldus Books, 1977.",
+                "subject_ids": [
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "",
+                "title": "The making of a spy",
+                "title_latin": "making of a spy",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "wiese_jim",
+                        "name": "Wiese, Jim"
+                    },
+                    {
+                        "id": "shems_ed",
+                        "name": "Shems, Ed"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spy_science_a01",
+                "dewey_decimal": "363.2/5931",
+                "dewey_normal": "363.25931",
+                "edition_info": "(alk. paper)",
+                "isbn10": "047114620X",
+                "isbn13": "9780471146209",
+                "language": "eng",
+                "lcc_number": "JF1525",
+                "marc_enc_level": "",
+                "notes": "Includes index.\n\nAlso available as an electronic book via the World Wide Web to institutions affiliated with netLibrary, Inc.",
+                "physical_description_text": "viii, 120 p. : ill. ; 26 cm.",
+                "publisher_id": "wiley",
+                "publisher_name": "Wiley",
+                "publisher_text": "New York : Wiley, c1996.",
+                "subject_ids": [
+                    "amazon_com_childrens_books_science_nature_how_it_works_gener",
+                    "amazon_com_childrens_books_sports_activities_games_general",
+                    "amazon_com_childrens_books_ages_9_12_general",
+                    "espionage_juvenile_literature",
+                    "intelligence_service_juvenile_literature",
+                    "espionage",
+                    "intelligence_service",
+                    "experiments"
+                ],
+                "summary": "Describes the skills, equipment, and techniques that spies use. Includes activities and experiments.",
+                "title": "Spy science",
+                "title_latin": "Spy science",
+                "title_long": "Spy science: 40 secret-sleuthing, code-cracking, spy-catching activities for kids",
+                "urls_text": "Contributor biographical information http://www.loc.gov/catdir/bios/wiley041/96007019.html\n\nhttp://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=26341\n\nPublisher description http://www.loc.gov/catdir/description/wiley032/96007019.html\n\nTable of Contents http://www.loc.gov/catdir/toc/onix03/96007019.html"
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "ian_probert",
+                        "name": "Probert, Ian"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "internet_spy",
+                "dewey_decimal": "364.1/68/092",
+                "dewey_normal": "364.168092",
+                "edition_info": "",
+                "isbn10": "0753450070",
+                "isbn13": "9780753450079",
+                "language": "eng",
+                "lcc_number": "HV6773",
+                "marc_enc_level": "",
+                "notes": "",
+                "physical_description_text": "iv, 91 p. ; 20 cm.",
+                "publisher_id": "kingfisher",
+                "publisher_name": "Kingfisher",
+                "publisher_text": "New York : Kingfisher, 1996.",
+                "subject_ids": [
+                    "computer_crimes_case_studies_juvenile_literature",
+                    "computer_crimes",
+                    "espionage"
+                ],
+                "summary": "Relates a 1989 incident of German computer hackers being paid by the KGB to break into top secret computer files in the United States.",
+                "title": "Internet spy",
+                "title_latin": "Internet spy",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "phythian_mark",
+                        "name": "Phythian, Mark"
+                    },
+                    {
+                        "id": "gill_peter",
+                        "name": "Gill, Peter"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "intelligence_in_an_insecure_world",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "(pbk.)",
+                "isbn10": "0745632459",
+                "isbn13": "9780745632452",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "Includes bibliographical references (p. [204]-222) and index.",
+                "physical_description_text": "xvi, 228 p. : ill. ; 26 cm.",
+                "publisher_id": "polity_press",
+                "publisher_name": "Polity Press",
+                "publisher_text": "Cambridge, UK ; Polity Press, 2006.",
+                "subject_ids": [
+                    "intelligence_service",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Intelligence in an insecure world",
+                "title_latin": "Intelligence in an insecure world",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "phythian_mark",
+                        "name": "Phythian, Mark"
+                    },
+                    {
+                        "id": "gill_peter",
+                        "name": "Gill, Peter"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "intelligence_in_an_insecure_world_a01",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "(hbk.)",
+                "isbn10": "0745632440",
+                "isbn13": "9780745632445",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "Includes bibliographical references (p. [204]-222) and index.",
+                "physical_description_text": "xvi, 228 p. : ill. ; 26 cm.",
+                "publisher_id": "polity_press",
+                "publisher_name": "Polity Press",
+                "publisher_text": "Cambridge, UK ; Polity Press, 2006.",
+                "subject_ids": [
+                    "intelligence_service",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Intelligence in an insecure world",
+                "title_latin": "Intelligence in an insecure world",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "gifford_clive",
+                        "name": "Gifford, Clive"
+                    },
+                    {
+                        "id": "dame_stella_rimington",
+                        "name": "Rimington, Dame Stella"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spies_a03",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "0753457776",
+                "isbn13": "9780753457771",
+                "language": "eng",
+                "lcc_number": "JF1525",
+                "marc_enc_level": "",
+                "notes": "Includes index.\n\nForeword -- Why spy?: Why do nations spy? -- Early spies -- Spies at war -- Spies at war (part two) -- Sabotage and assassination -- Industrial espionage -- Spying on the public -- Summary -- Spies and secret services: Secret services -- Part of a team -- Recruiting spies -- Spy rings -- Spy catching -- Summary -- Techniques and equipment: Breaking in-getting out -- Surveillance -- Eye spy -- Listening in -- Getting a message back -- Codes and ciphers -- Disguise and cover -- Art of concealment -- Secret weapons -- Swapping spies and information -- Silicon spies -- Summary -- Glossary -- Abbreviations of organizations -- Index -- Acknowledgments.",
+                "physical_description_text": "63 p. : ill. (some col.) ; 29 cm.",
+                "publisher_id": "kingfisher",
+                "publisher_name": "Kingfisher",
+                "publisher_text": "Boston : Kingfisher, c2004.",
+                "subject_ids": [
+                    "amazon_com_childrens_books_history_historical_fiction_milita",
+                    "amazon_com_childrens_books_reference_nonfiction_politics_gov",
+                    "amazon_com_childrens_books_ages_9_12_general",
+                    "spies_juvenile_literature",
+                    "espionage_juvenile_literature",
+                    "spies",
+                    "espionage"
+                ],
+                "summary": "KFK Spies explores the undercover world of espionage-part of the intelligence-gathering operations of nations and global organizations. Learn more about the first spies and find out what motivated these men and women to pursue such an unusual and often dangerous career path. Discover the different types of espionage activities and find out how secret services use communication, code breaking, and a variety of other techniques to uncover spies. Marvel at the astonishing range of weapons and gadgets used by these secret agents and understand why there are more spies now than ever before.",
+                "title": "Spies",
+                "title_latin": "Spies",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "le_caron_henri",
+                        "name": "Le Caron, Henri"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "twenty_five_years_in_the_secret_service",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0665035098",
+                "isbn13": "9780665035098",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "Filmed from a copy of the original publication held by the Library, Department of National Defence.Ottawa :Canadian Institute for Historical Microreproductions,1980.\n\nvi, 305, [5], 307-311, [1], 16 p. : ill., ports.",
+                "physical_description_text": "4 microfiches (185 fr.) : ill., ports.",
+                "publisher_id": "w_heinemann",
+                "publisher_name": "W. Heinemann",
+                "publisher_text": "London : W. Heinemann, 1892.",
+                "subject_ids": [
+                    "le_caron_henri",
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "",
+                "title": "Twenty-five years in the secret service",
+                "title_latin": "Twenty-five years in the secret service",
+                "title_long": "Twenty-five years in the secret service the recollections of a spy",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "alcorn_robert_hayden",
+                        "name": "Alcorn, Robert Hayden"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spies_of_the_oss",
+                "dewey_decimal": "940.54/86/73",
+                "dewey_normal": "940.548673",
+                "edition_info": "",
+                "isbn10": "0450021963",
+                "isbn13": "9780450021961",
+                "language": "eng",
+                "lcc_number": "UB271",
+                "marc_enc_level": "",
+                "notes": "Originally published: as 'No banners, no bands', New York : D. McKay, 1965 ; and as 'Spies of the OSS', London : Hale, 1973",
+                "physical_description_text": "192p 18cm pbk",
+                "publisher_id": "new_english_library",
+                "publisher_name": "New English Library",
+                "publisher_text": "London New English Library 1975",
+                "subject_ids": [
+                    "united_states_office_of_strategic_services_aaaa0",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Spies of the OSS",
+                "title_latin": "Spies of the OSS",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "louis_hagen",
+                        "name": "Hagen, Louis"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_secret_war_for_europe",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0356023699",
+                "isbn13": "9780356023694",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "1",
+                "notes": "",
+                "physical_description_text": "287 p. 8 plates, ports. 23 cm.",
+                "publisher_id": "macdonald_co",
+                "publisher_name": "Macdonald & Co",
+                "publisher_text": "London, Macdonald & Co., 1968.",
+                "subject_ids": [
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "The secret war for Europe",
+                "title_latin": "secret war for Europe",
+                "title_long": "The secret war for Europe: a dossier of espionage",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "adams_james_l",
+                        "name": "Adams, James L."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_new_spies_a01",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "0712674101",
+                "isbn13": "9780712674102",
+                "language": "eng",
+                "lcc_number": "JF1525",
+                "marc_enc_level": "",
+                "notes": "Originally published: London : Hutchinson, 1994.\n\nIncludes bibliographical references (p. 363-367) and index.",
+                "physical_description_text": "xxxi, 380 p. : ill. ; 24 cm.",
+                "publisher_id": "pimlico",
+                "publisher_name": "Pimlico",
+                "publisher_text": "London : Pimlico, 1995.",
+                "subject_ids": [
+                    "intelligence_service",
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "",
+                "title": "The new spies",
+                "title_latin": "new spies",
+                "title_long": "The new spies: exploring the frontiers of espionage",
+                "urls_text": "Publisher description http://www.loc.gov/catdir/enhancements/fy0740/96162484-d.html"
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "dulles_allen_welsh",
+                        "name": "Dulles, Allen Welsh"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_craft_of_intelligence_a02",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0813302854",
+                "isbn13": "9780813302850",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "Includes index\n\nBibliography : p. 265-267",
+                "physical_description_text": "277 p. : ports",
+                "publisher_id": "westview_press",
+                "publisher_name": "Westview Press",
+                "publisher_text": "Bolder, [Colo.] : Westview Press, 1985, c1963",
+                "subject_ids": [
+                    "espionage",
+                    "spies",
+                    "intelligence_service"
+                ],
+                "summary": "",
+                "title": "The craft of intelligence",
+                "title_latin": "craft of intelligence",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "iarochkin_v",
+                        "name": "Iarochkin, V."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "bezopasnost_bankovskikh_sistem",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "5868949986",
+                "isbn13": "9785868949982",
+                "language": "rus",
+                "lcc_number": "",
+                "marc_enc_level": "4",
+                "notes": "Includes bibliographical references (p. 412-413).",
+                "physical_description_text": "415 p. : ill. ; 20 cm.",
+                "publisher_id": "os_89_a01",
+                "publisher_name": "Os?-89",
+                "publisher_text": "Moskva : Os?-89, 2004.",
+                "subject_ids": [
+                    "government_law_aaaa0",
+                    "internal_security",
+                    "banks",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Bezopasnost? bankovskikh sistem",
+                "title_latin": "Bezopasnost' bankovskikh sistem",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "iarochkin_v",
+                        "name": "Iarochkin, V."
+                    },
+                    {
+                        "id": "buzanova_ia_v",
+                        "name": "Buzanova, I V."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "korporativnaia_razvedka",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "586894903X",
+                "isbn13": "9785868949036",
+                "language": "rus",
+                "lcc_number": "",
+                "marc_enc_level": "4",
+                "notes": "Includes bibliographical references (p. 284-285).",
+                "physical_description_text": "287 p. : ill. ; 21 cm.",
+                "publisher_id": "os_89_a01",
+                "publisher_name": "Os?-89",
+                "publisher_text": "Moskva : Os?-89, 2004.",
+                "subject_ids": [
+                    "government_law_aaaa0",
+                    "business",
+                    "internal_security",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Korporativnaia razvedka",
+                "title_latin": "Korporativnaia razvedka",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "steven_stewart",
+                        "name": "Steven, Stewart"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_spymasters_of_israel_a01",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0340262486",
+                "isbn13": "9780340262481",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "7",
+                "notes": "",
+                "physical_description_text": "xxi, 329 s. ill.",
+                "publisher_id": "hodder_and_stoughton",
+                "publisher_name": "Hodder and Stoughton",
+                "publisher_text": "London: Hodder and Stoughton, 1981",
+                "subject_ids": [
+                    "intelligence_service_israel_history",
+                    "secret_service_israel_history",
+                    "arab_israeli_conflict",
+                    "military_intelligence",
+                    "spionage",
+                    "militr_underrttelseverksamhet",
+                    "palestinafrgan",
+                    "israel",
+                    "six_day_war_1967",
+                    "espionage",
+                    "sexdagarskriget_1967"
+                ],
+                "summary": "",
+                "title": "The spymasters of Israel",
+                "title_latin": "spymasters of Israel",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "lotz_wolfgang",
+                        "name": "Lotz, Wolfgang"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "a_handbook_for_spies",
+                "dewey_decimal": "327/.12",
+                "dewey_normal": "327.12",
+                "edition_info": "$9.95",
+                "isbn10": "0060127074",
+                "isbn13": "9780060127077",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "8",
+                "notes": "\"A Joan Kahn book.\"",
+                "physical_description_text": "ix, 146 p. ; 22 cm.",
+                "publisher_id": "harper_row",
+                "publisher_name": "Harper & Row",
+                "publisher_text": "New York : Harper & Row, c1980.",
+                "subject_ids": [
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "",
+                "title": "A handbook for spies",
+                "title_latin": "handbook for spies",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "parker_john",
+                        "name": "Parker, John"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "total_surveillance_a01",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0749920335",
+                "isbn13": "9780749920333",
+                "language": "eng",
+                "lcc_number": "JC596",
+                "marc_enc_level": "",
+                "notes": "Includes bibliographical references (p. 303-307) and index.",
+                "physical_description_text": "314 p., [8] p. of plates : ill. ; 24 cm.",
+                "publisher_id": "piatkus",
+                "publisher_name": "Piatkus",
+                "publisher_text": "London : Piatkus, 2000.",
+                "subject_ids": [
+                    "espionage",
+                    "privacy_right_of",
+                    "electronic_surveillance",
+                    "closed_circuit_television"
+                ],
+                "summary": "",
+                "title": "Total surveillance",
+                "title_latin": "Total surveillance",
+                "title_long": "Total surveillance: investigating the Big Brother world of e-spies, eavesdroppers and CCTV",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "diaz_cobo_oscar",
+                        "name": "Diaz-Cobo, Oscar"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "modern_day_ninjutsu",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "(pbk.) :$10.00",
+                "isbn10": "0918751047",
+                "isbn13": "9780918751041",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "i",
+                "notes": "",
+                "physical_description_text": "158 p. : ill. ; 22 cm.",
+                "publisher_id": "j_flores",
+                "publisher_name": "J. Flores",
+                "publisher_text": "Rosemead, Calif. : J. Flores, c1986.",
+                "subject_ids": [
+                    "ninjutsu",
+                    "self_defense",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Modern day Ninjutsu",
+                "title_latin": "Modern day Ninjutsu",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "boar_roger",
+                        "name": "Boar, Roger"
+                    },
+                    {
+                        "id": "blundell_nigel",
+                        "name": "Blundell, Nigel"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_worlds_greatest_spies_and_spymasters_a01",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "(pbk.) :$3.95",
+                "isbn10": "0425111032",
+                "isbn13": "9780425111031",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "i",
+                "notes": "",
+                "physical_description_text": "248 p. : ill., ports. ; 17 cm.",
+                "publisher_id": "berkley_books",
+                "publisher_name": "Berkley Books",
+                "publisher_text": "New York : Berkley Books, 1988, c1984.",
+                "subject_ids": [
+                    "spies",
+                    "espionage",
+                    "intelligence_service_history",
+                    "espionage_history",
+                    "spies_history"
+                ],
+                "summary": "",
+                "title": "The world's greatest spies and spymasters",
+                "title_latin": "world's greatest spies and spymasters",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "copeland_miles",
+                        "name": "Copeland, Miles"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_real_spy_world",
+                "dewey_decimal": "327/.12",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "0722125011",
+                "isbn13": "9780722125014",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "Originally published: as 'Without cloak or dagger', New York : Simon and Schuster, 1974 ; and as 'The real spy world', London : Weidenfeld and Nicolson, 1975\n\nIncludes index",
+                "physical_description_text": "351p 18cm pbk",
+                "publisher_id": "sphere",
+                "publisher_name": "Sphere",
+                "publisher_text": "London Sphere 1978",
+                "subject_ids": [
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "The real spy world",
+                "title_latin": "real spy world",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "lawson_don",
+                        "name": "Lawson, Don"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_secret_world_war_ii",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0531014592",
+                "isbn13": "9780531014592",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "Includes index.\n\nBibliography: p. [112]-113.",
+                "physical_description_text": "118 p. : ill. ; 24 cm.",
+                "publisher_id": "f_watts",
+                "publisher_name": "F. Watts",
+                "publisher_text": "New York : F. Watts, 1978.",
+                "subject_ids": [
+                    "world_war_1939_1945_secret_service",
+                    "espionage",
+                    "world_war_1939_1945_secret_service_juvenile_literature"
+                ],
+                "summary": "Discusses World War II espionage activities including intelligence personnel, codes and ciphers, and propaganda.",
+                "title": "The secret World War II",
+                "title_latin": "secret World War II",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "jefferson_mack",
+                        "name": "Mack, Jefferson"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "running_a_ring_of_spies",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "0873649028",
+                "isbn13": "9780873649025",
+                "language": "eng",
+                "lcc_number": "JF1525",
+                "marc_enc_level": "",
+                "notes": "",
+                "physical_description_text": "vi, 206 p. ; 22 cm.",
+                "publisher_id": "paladin_press",
+                "publisher_name": "Paladin Press",
+                "publisher_text": "Boulder, Colo. : Paladin Press, c1996.",
+                "subject_ids": [
+                    "espionage",
+                    "intelligence_service"
+                ],
+                "summary": "",
+                "title": "Running a ring of spies",
+                "title_latin": "Running a ring of spies",
+                "title_long": "Running a ring of spies: spycraft and black operations in the real world of espionage",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "copeland_miles",
+                        "name": "Copeland, Miles"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_real_spy_world_a01",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0297768514",
+                "isbn13": "9780297768517",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "New York ed., 1974, under title: Without cloak or dagger.\n\nIncludes bibliographical references.",
+                "physical_description_text": "351 p. : ill. ; 22 cm.",
+                "publisher_id": "weidenfeld_and_nicolson",
+                "publisher_name": "Weidenfeld and Nicolson",
+                "publisher_text": "London : Weidenfeld and Nicolson, 1975, c1974.",
+                "subject_ids": [
+                    "espionage",
+                    "intelligence_service"
+                ],
+                "summary": "",
+                "title": "The real spy world",
+                "title_latin": "real spy world",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "french_scott_r",
+                        "name": "French, Scott R."
+                    },
+                    {
+                        "id": "french_margaret",
+                        "name": "French, Margaret"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_big_brother_game_a01",
+                "dewey_decimal": "323.44",
+                "dewey_normal": "323.44",
+                "edition_info": "",
+                "isbn10": "0818402407",
+                "isbn13": "9780818402401",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "",
+                "physical_description_text": "237 p. : ill. ; 28 cm.",
+                "publisher_id": "l_stuart",
+                "publisher_name": "L. Stuart",
+                "publisher_text": "Secaucus, N.J. : L. Stuart, c1975.",
+                "subject_ids": [
+                    "privacy_right_of",
+                    "espionage",
+                    "intelligence_service"
+                ],
+                "summary": "",
+                "title": "The big brother game",
+                "title_latin": "big brother game",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "french_scott_r",
+                        "name": "French, Scott R."
+                    },
+                    {
+                        "id": "french_margaret",
+                        "name": "French, Margaret"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_big_brother_game_a02",
+                "dewey_decimal": "323.44",
+                "dewey_normal": "323.44",
+                "edition_info": "(pbk.) :$9.95",
+                "isbn10": "0818402415",
+                "isbn13": "9780818402418",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "",
+                "physical_description_text": "237 p. : ill. ; 28 cm.",
+                "publisher_id": "l_stuart",
+                "publisher_name": "L. Stuart",
+                "publisher_text": "Secaucus, N.J. : L. Stuart, c1975.",
+                "subject_ids": [
+                    "privacy_right_of",
+                    "espionage",
+                    "intelligence_service"
+                ],
+                "summary": "",
+                "title": "The big brother game",
+                "title_latin": "big brother game",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "owen_david",
+                        "name": "Owen, David"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "espionage_a08",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "(hbk.)",
+                "isbn10": "0762108126",
+                "isbn13": "9780762108121",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "Includes index.",
+                "physical_description_text": "176 p. : ill. (some col.), ports. ; 23 cm.",
+                "publisher_id": "readers_digest_association_a01",
+                "publisher_name": "Reader's Digest Association",
+                "publisher_text": "Pleasantville, NY : Reader's Digest Association, 2006.",
+                "subject_ids": [
+                    "history_military_intelligence_espionage",
+                    "nonfiction_social_sciences_political_science_general",
+                    "nonfiction_true_accounts_espionage",
+                    "nonfiction_true_accounts_true_crime",
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "Offers a behind-the-scenes look at the world of international espionage through a review of famous spies, espionage cases, covert espionage techniques, and the latest in high-tech spyware, shedding new light on the iimportant role of spies in the modern world in foiling criminals and terrorists around the world.",
+                "title": "Espionage",
+                "title_latin": "Espionage",
+                "title_long": "Espionage: fascinating stories of spies and spying",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "platt_richard",
+                        "name": "Platt, Richard"
+                    },
+                    {
+                        "id": "dann_geoff",
+                        "name": "Dann, Geoff"
+                    },
+                    {
+                        "id": "gorton_steve",
+                        "name": "Gorton, Steve"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spy_photographed_by_geoff_dann_and_steve_gorton",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0732260434",
+                "isbn13": "9780732260439",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "",
+                "physical_description_text": "",
+                "publisher_id": "pymble_n_s_w_harpercollins",
+                "publisher_name": "Pymble, N.S.W. : HarperCollins",
+                "publisher_text": "Pymble, N.S.W. : HarperCollins 1996.",
+                "subject_ids": [
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Spy; photographed by Geoff Dann and Steve Gorton",
+                "title_latin": "Spy; photographed by Geoff Dann and Steve Gorton",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "winkler_ira",
+                        "name": "Winkler, Ira"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spies_among_us",
+                "dewey_decimal": "658.4/72",
+                "dewey_normal": "658.472",
+                "edition_info": "(cloth)",
+                "isbn10": "0764584685",
+                "isbn13": "9780764584688",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "Includes index.",
+                "physical_description_text": "xix, 326 p. ; 24 cm.",
+                "publisher_id": "wiley_pub",
+                "publisher_name": "Wiley Pub",
+                "publisher_text": "Indianapolis, Ind. : Wiley Pub., c2005.",
+                "subject_ids": [
+                    "espionage",
+                    "business_intelligence",
+                    "computer_crimes_prevention",
+                    "terrorism_prevention"
+                ],
+                "summary": "",
+                "title": "Spies among us",
+                "title_latin": "Spies among us",
+                "title_long": "Spies among us: how to stop the spies, terrorists, hackers, and criminals you don't even know you encounter every day",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "russell_francis",
+                        "name": "Russell, Francis"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_secret_war_a11",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0783557000",
+                "isbn13": "9780783557007",
+                "language": "eng",
+                "lcc_number": "D810",
+                "marc_enc_level": "",
+                "notes": "Originally published: Alexandria, Va. : Time-Life Books, 1981.\n\nIncludes bibliographical references (p. 202-203) and index.",
+                "physical_description_text": "208 p. : ill. ; 29 cm.",
+                "publisher_id": "time_life_books",
+                "publisher_name": "Time-Life Books",
+                "publisher_text": "Alexandria, Va. : Time-Life Books, [1998?]",
+                "subject_ids": [
+                    "world_war_1939_1945_secret_service",
+                    "world_war_1939_1945_cryptography",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "The secret war",
+                "title_latin": "secret war",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "dan_vyleta",
+                        "name": "Vyleta, Dan"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "pavel_and_i",
+                "dewey_decimal": "813.6",
+                "dewey_normal": "813.6",
+                "edition_info": "(hbk.)",
+                "isbn10": "0747591938",
+                "isbn13": "9780747591931",
+                "language": "eng",
+                "lcc_number": "PR9199.4",
+                "marc_enc_level": "",
+                "notes": "",
+                "physical_description_text": "344 p. ; 20 cm.",
+                "publisher_id": "bloomsbury",
+                "publisher_name": "Bloomsbury",
+                "publisher_text": "London : Bloomsbury, 2008.",
+                "subject_ids": [
+                    "literature_fiction_general_general_aas",
+                    "literature_fiction_general_aas",
+                    "soldiers_germany_berlin_fiction",
+                    "orphans_germany_berlin_fiction",
+                    "americans_germany_berlin_fiction",
+                    "fellowship_fiction",
+                    "espionage",
+                    "cold_war_social_aspects_germany_berlin_fiction",
+                    "berlin_germany_history_1945_1990_fiction"
+                ],
+                "summary": "",
+                "title": "Pavel & I",
+                "title_latin": "Pavel & I",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "james_p_gannon",
+                        "name": "Gannon, James P."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "stealing_secrets_telling_lies",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "1574883674",
+                "isbn13": "9781574883671",
+                "language": "eng",
+                "lcc_number": "JF1525",
+                "marc_enc_level": "4",
+                "notes": "Includes bibliographical references (p. 306-312) and index.",
+                "physical_description_text": "xi, 324 p., [16] p. of plates : ill. ; 24 cm.",
+                "publisher_id": "brasseys",
+                "publisher_name": "Brassey's",
+                "publisher_text": "Washington, D.C. : Brassey's, c2001.",
+                "subject_ids": [
+                    "espionage",
+                    "international_relations"
+                ],
+                "summary": "",
+                "title": "Stealing secrets, telling lies",
+                "title_latin": "Stealing secrets, telling lies",
+                "title_long": "Stealing secrets, telling lies: how spies and codebreakers helped shape the twentieth century",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "portalupi_laura",
+                        "name": "Portalupi, Laura"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spies_real_people_real_stories",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "(pbk.)",
+                "isbn10": "0736828303",
+                "isbn13": "9780736828307",
+                "language": "eng",
+                "lcc_number": "UB270.5",
+                "marc_enc_level": "4",
+                "notes": "Includes bibliographical references (p. 46) and index.\n\nHistory of spies -- Tools and tricks -- Famous spies -- Becoming a spy -- Spying today.",
+                "physical_description_text": "48 p. : ill. (some col.), col. maps ; 22 cm.",
+                "publisher_id": "red_brick_learning",
+                "publisher_name": "Red Brick Learning",
+                "publisher_text": "Bloomington, Minn. : Red Brick Learning, c2004.",
+                "subject_ids": [
+                    "spies_juvenile_literature",
+                    "spies_biography_juvenile_literature",
+                    "espionage_juvenile_literature",
+                    "spies",
+                    "espionage"
+                ],
+                "summary": "Discusses the history of spying from biblical times to the present, types of spying, tools spies use, and the personal qualifications and training of spies, and includes profiles of famous spies and a visit to the International Spy Museum in Washington, D.C.",
+                "title": "Spies! Real people, real stories",
+                "title_latin": "Spies! Real people, real stories",
+                "title_long": "",
+                "urls_text": "Table of contents http://www.loc.gov/catdir/toc/ecip043/2003009764.html"
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "portalupi_laura",
+                        "name": "Portalupi, Laura"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spies_real_people_real_stories_a01",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "0736827889",
+                "isbn13": "9780736827881",
+                "language": "eng",
+                "lcc_number": "UB270.5",
+                "marc_enc_level": "4",
+                "notes": "Includes bibliographical references (p. 46) and index.\n\nHistory of spies -- Tools and tricks -- Famous spies -- Becoming a spy -- Spying today.",
+                "physical_description_text": "48 p. : ill. (some col.), col. maps ; 22 cm.",
+                "publisher_id": "red_brick_learning",
+                "publisher_name": "Red Brick Learning",
+                "publisher_text": "Bloomington, Minn. : Red Brick Learning, c2004.",
+                "subject_ids": [
+                    "spies_juvenile_literature",
+                    "spies_biography_juvenile_literature",
+                    "espionage_juvenile_literature",
+                    "spies",
+                    "espionage"
+                ],
+                "summary": "Discusses the history of spying from biblical times to the present, types of spying, tools spies use, and the personal qualifications and training of spies, and includes profiles of famous spies and a visit to the International Spy Museum in Washington, D.C.",
+                "title": "Spies! Real people, real stories",
+                "title_latin": "Spies! Real people, real stories",
+                "title_long": "",
+                "urls_text": "Table of contents http://www.loc.gov/catdir/toc/ecip043/2003009764.html"
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "denega_danielle",
+                        "name": "Denega, Danielle"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_cold_war_pigeon_patrols_and_other_animal_spies",
+                "dewey_decimal": "327.1209/045",
+                "dewey_normal": "327.1209045",
+                "edition_info": "",
+                "isbn10": "0531175340",
+                "isbn13": "9780531175347",
+                "language": "eng",
+                "lcc_number": "UB270.5",
+                "marc_enc_level": "",
+                "notes": "\"True-life cases!\"--Cover.\n\nIncludes bibliographical and internet references (p. 57-58) and index.",
+                "physical_description_text": "64 p. : ill. (some col.), col. maps ; 23 cm.",
+                "publisher_id": "franklin_watts",
+                "publisher_name": "Franklin Watts",
+                "publisher_text": "New York, NY : Franklin Watts, c2008.",
+                "subject_ids": [
+                    "teens",
+                    "childrens_books_history_historical_fiction_united_states_oth",
+                    "childrens_books_reference_nonfiction_politics_government",
+                    "childrens_books_science_nature_how_it_works_general",
+                    "childrens_books_ages_9_12_general",
+                    "childrens_books_animals_nonfiction",
+                    "espionage_juvenile_literature",
+                    "spies_juvenile_literature",
+                    "animals_war_use_juvenile_literature",
+                    "espionage",
+                    "spies",
+                    "animals_war_use"
+                ],
+                "summary": "Not all spies walk on two legs, some of history's most successful sleuths fly, bark, and swim. Animals have become undercover heroes in the military, on the police force, and even in the CIA!",
+                "title": "The Cold War pigeon patrols and other animal spies",
+                "title_latin": "Cold War pigeon patrols and other animal spies",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "denega_danielle",
+                        "name": "Denega, Danielle"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_cold_war_pigeon_patrols_and_other_animal_spies_a01",
+                "dewey_decimal": "327.1209/045",
+                "dewey_normal": "327.1209045",
+                "edition_info": "",
+                "isbn10": "0531120813",
+                "isbn13": "9780531120811",
+                "language": "eng",
+                "lcc_number": "UB270.5",
+                "marc_enc_level": "",
+                "notes": "\"True-life cases!\"--Cover.\n\nIncludes bibliographical and internet references (p. 57-58) and index.",
+                "physical_description_text": "64 p. : ill. (some col.), col. maps ; 23 cm.",
+                "publisher_id": "franklin_watts",
+                "publisher_name": "Franklin Watts",
+                "publisher_text": "New York, NY : Franklin Watts, c2008.",
+                "subject_ids": [
+                    "espionage_juvenile_literature",
+                    "spies_juvenile_literature",
+                    "animals_war_use_juvenile_literature",
+                    "espionage",
+                    "spies",
+                    "animals_war_use"
+                ],
+                "summary": "Not all spies walk on two legs, some of history's most successful sleuths fly, bark, and swim. Animals have become undercover heroes in the military, on the police force, and even in the CIA!",
+                "title": "The Cold War pigeon patrols and other animal spies",
+                "title_latin": "Cold War pigeon patrols and other animal spies",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "brandsma_gijs",
+                        "name": "Brandsma, Gijs"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "ssst_vertel_het_de_russen",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "fl 14.90",
+                "isbn10": "9026980256",
+                "isbn13": "9789026980251",
+                "language": "dut",
+                "lcc_number": "UB270",
+                "marc_enc_level": "i",
+                "notes": "",
+                "physical_description_text": "136 p., [16] leaves of plates : ill. ; 21 cm.",
+                "publisher_id": "gooise_utige_verji",
+                "publisher_name": "Gooise Utige-verji",
+                "publisher_text": "Bussum : Gooise Utige-verji, [1975]",
+                "subject_ids": [
+                    "nederlandse_christelijke_radio_vereniging",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Ssst... vertel het de Russen",
+                "title_latin": "Ssst... vertel het de Russen",
+                "title_long": "Ssst... vertel het de Russen: gebaseerd op de NCRV-tv-documentaire",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "frederick_p_hitz",
+                        "name": "Hitz, Frederick P."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "why_spy_espionage_in_an_age_of_uncertainty",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0312356048",
+                "isbn13": "9780312356040",
+                "language": "eng",
+                "lcc_number": "JK468",
+                "marc_enc_level": "",
+                "notes": "Includes bibliographical references (p. [197]-202) and index.\n\nIntroduction -- The seven motivations for espionage -- Espionage versus intelligence: how the United States goes about spying -- Ideological commitment -- Money and treasure -- Revenge and score settling -- Sex, intimidation, and blackmail -- Spying for reasons of friendship or ethnic or religious solidarity -- The spy game for the sake of the game -- America's spying competence today -- Intelligence failures and politicization -- The CIA in transition: 1991 to the present -- Intelligence reform -- Spying in the twenty-first century -- Actionable intelligence and the role of law enforcement, the military, and technology -- Foreign liaison services and spying lawfully -- Updating operational and analytical tradecraft -- Why spy? Should we do it? -- A spy for the twenty-first century -- Conclusion: can we make espionage work in the twenty-first century?",
+                "physical_description_text": "viii, 212 p. ; 19 cm.",
+                "publisher_id": "thomas_dunne_books_st_martins_",
+                "publisher_name": "Thomas Dunne Books/St. Martin's Press",
+                "publisher_text": "New York : Thomas Dunne Books/St. Martin's Press, 2008.",
+                "subject_ids": [
+                    "history_military_intelligence_espionage",
+                    "nonfiction_politics_international_relations",
+                    "nonfiction_politics_freedom_security_intelligence",
+                    "nonfiction_social_sciences_political_science_levels_of_aaaa0",
+                    "united_states_central_intelligence_agency_aaaa1",
+                    "intelligence_service_united_states",
+                    "espionage_american",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Why spy?",
+                "title_latin": "Why spy?",
+                "title_long": "Why spy?: espionage in an age of uncertainty",
+                "urls_text": "Contributor biographical information http://www.loc.gov/catdir/enhancements/fy0809/2007039363-b.html\n\nPublisher description http://www.loc.gov/catdir/enhancements/fy0809/2007039363-d.html"
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "melton_h_keith",
+                        "name": "Melton, H. Keith"
+                    },
+                    {
+                        "id": "colby_william",
+                        "name": "Colby, William"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_ultimate_spy",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "(hbk) :\u00ef\u00bf\u00bd16.99",
+                "isbn10": "0751302562",
+                "isbn13": "9780751302561",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "Includes index.\n\nIncludes bibliographical references.",
+                "physical_description_text": "176 p. : ill. (some col.) ; 29 cm.",
+                "publisher_id": "dorling_kindersley",
+                "publisher_name": "Dorling Kindersley",
+                "publisher_text": "London : Dorling Kindersley, 1996.",
+                "subject_ids": [
+                    "reference",
+                    "espionage",
+                    "intelligence_service"
+                ],
+                "summary": "Covers the whole spectrum of espionage from the daily life of a special agent to the complex world of international intelligence agencies.",
+                "title": "The ultimate spy book",
+                "title_latin": "ultimate spy book",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "gelb_norman",
+                        "name": "Gelb, Norman"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "enemy_in_the_shadows_a01",
+                "dewey_decimal": "327/.12/0904",
+                "dewey_normal": "327.120904",
+                "edition_info": "$8.95",
+                "isbn10": "0882543938",
+                "isbn13": "9780882543932",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "Includes index.",
+                "physical_description_text": "157 p., [4] leaves of plates : ill. ; 23 cm.",
+                "publisher_id": "hippocrene_books",
+                "publisher_name": "Hippocrene Books",
+                "publisher_text": "New York : Hippocrene Books, 1976.",
+                "subject_ids": [
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "",
+                "title": "Enemy in the shadows",
+                "title_latin": "Enemy in the shadows",
+                "title_long": "Enemy in the shadows: the world of spies and spying",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "silverstein_herma",
+                        "name": "Silverstein, Herma"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spies_among_us_a01",
+                "dewey_decimal": "327.1/2",
+                "dewey_normal": "327.12",
+                "edition_info": "(lib. bdg.)",
+                "isbn10": "0531106004",
+                "isbn13": "9780531106006",
+                "language": "eng",
+                "lcc_number": "JF1525",
+                "marc_enc_level": "",
+                "notes": "Includes index.\n\nBibliography: p. 139.",
+                "physical_description_text": "144 p. : ill. ; 24 cm.",
+                "publisher_id": "f_watts",
+                "publisher_name": "F. Watts",
+                "publisher_text": "New York : F. Watts, 1988.",
+                "subject_ids": [
+                    "nonfiction_true_accounts_espionage",
+                    "teens_general",
+                    "intelligence_service_juvenile_literature",
+                    "espionage_juvenile_literature",
+                    "spies_juvenile_literature",
+                    "intelligence_service",
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "Examines the world of modern espionage, discussing the functions of intelligence agencies around the world, how and why they gather information, and examples of spy operations and famous cases.",
+                "title": "Spies among us",
+                "title_latin": "Spies among us",
+                "title_long": "Spies among us: the truth about modern espionage",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "janet_hines",
+                        "name": "Hines, Janet"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "inside_americas_cia_the_central_intelligence_agency",
+                "dewey_decimal": "327.1273",
+                "dewey_normal": "327.1273",
+                "edition_info": "(library binding)",
+                "isbn10": "0823938115",
+                "isbn13": "9780823938117",
+                "language": "eng",
+                "lcc_number": "UB251",
+                "marc_enc_level": "",
+                "notes": "Includes bibliographical references (p. [61] and index.\n\nEvolution of the Agency -- Present day administrative structure and methods -- America at war (1899-1945) -- The Cold War (1950-1991) -- Looking forward.",
+                "physical_description_text": "63 p. : ill., ports. ; 24 cm.",
+                "publisher_id": "rosen_publishing_group",
+                "publisher_name": "Rosen Publishing Group",
+                "publisher_text": "New York : Rosen Publishing Group, 2003.",
+                "subject_ids": [
+                    "childrens_books_ages_9_12_general",
+                    "childrens_books_reference_nonfiction_politics_government",
+                    "childrens_books_general",
+                    "nonfiction_true_accounts_espionage",
+                    "united_states_central_intelligence_agency_aaaa1",
+                    "intelligence_service",
+                    "espionage"
+                ],
+                "summary": "Presents the United States Central Intelligence Agency (CIA) as having evolved from its maverick days during the Cold War to become a major player in the war against terrorism.",
+                "title": "Inside America's CIA",
+                "title_latin": "Inside America's CIA",
+                "title_long": "Inside America's CIA: the Central Intelligence Agency",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "healey_tim",
+                        "name": "Healey, Tim"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spies_a30",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "vpbk\u00ef\u00bf\u00bd3.99",
+                "isbn10": "0361085877",
+                "isbn13": "9780361085878",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "Previous ed. published as: Timespan spies. - London : Macdonald Educational, 1978\n\nIncludes bibliography and index",
+                "physical_description_text": "61p ill ports 30cm cased",
+                "publisher_id": "purnell",
+                "publisher_name": "Purnell",
+                "publisher_text": "London : Purnell, 1989, c1978.",
+                "subject_ids": [
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Spies",
+                "title_latin": "Spies",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "healey_tim",
+                        "name": "Healey, Tim"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spies_a31",
+                "dewey_decimal": "327.12",
+                "dewey_normal": "327.12",
+                "edition_info": "",
+                "isbn10": "0361085869",
+                "isbn13": "9780361085861",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "Previous ed. published as: Timespan spies. - London : Macdonald Educational, 1978\n\nIncludes bibliography and index",
+                "physical_description_text": "61p ill ports 30cm cased",
+                "publisher_id": "purnell",
+                "publisher_name": "Purnell",
+                "publisher_text": "London : Purnell, 1989, c1978.",
+                "subject_ids": [
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "Spies",
+                "title_latin": "Spies",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "boar_roger",
+                        "name": "Boar, Roger"
+                    },
+                    {
+                        "id": "blundell_nigel",
+                        "name": "Blundell, Nigel"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_worlds_greatest_spies_and_spymasters",
+                "dewey_decimal": "327.12092",
+                "dewey_normal": "327.12092",
+                "edition_info": "(pbk.)",
+                "isbn10": "0706420322",
+                "isbn13": "9780706420326",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "",
+                "notes": "Cover subtitle: The Portland spy ring, secrets of the KGB sex spies, the Cambridge Circus spies, Mata Hari, Sidney Reilly-ace of spies.",
+                "physical_description_text": "192 p. : ports. ; 21 cm.",
+                "publisher_id": "octopus",
+                "publisher_name": "Octopus",
+                "publisher_text": "London : Octopus, 1984.",
+                "subject_ids": [
+                    "spies",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "The world's greatest spies and spymasters",
+                "title_latin": "world's greatest spies and spymasters",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "copeland_miles",
+                        "name": "Copeland, Miles"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "beyond_cloak_and_dagger_inside_the_cia",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0523006977",
+                "isbn13": "9780523006970",
+                "language": "eng",
+                "lcc_number": "UB270",
+                "marc_enc_level": "",
+                "notes": "Original title: Without cloak or dagger: the truth about the new espionage.\n\nIncludes bibliographical references and index.",
+                "physical_description_text": "379 p. : ill. ; 18 cm.",
+                "publisher_id": "pinnacle_books",
+                "publisher_name": "Pinnacle Books",
+                "publisher_text": "New York : Pinnacle Books, c1975.",
+                "subject_ids": [
+                    "united_states_central_intelligence_agency_aaaa1",
+                    "espionage",
+                    "intelligence_service"
+                ],
+                "summary": "",
+                "title": "Beyond cloak and dagger: inside the CIA",
+                "title_latin": "Beyond cloak and dagger: inside the CIA",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "de_grazia_alfred",
+                        "name": "De Grazia, Alfred"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "the_fall_of_spydom",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0940268264",
+                "isbn13": "9780940268265",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "1",
+                "notes": "",
+                "physical_description_text": "404 p. : ill. ; 23 cm.",
+                "publisher_id": "quiddity_press",
+                "publisher_name": "Quiddity Press",
+                "publisher_text": "Princenton, N.J. : Quiddity Press, 1992.",
+                "subject_ids": [
+                    "de_grazia_alfred",
+                    "marx_christoph",
+                    "spies_biography",
+                    "intelligence_service",
+                    "espionage"
+                ],
+                "summary": "",
+                "title": "The fall of spydom",
+                "title_latin": "fall of spydom",
+                "title_long": "The fall of spydom: memoir of a case of espionage, with reflections and digressions upon catastrophism, pandemic paranoia, computers, war games, mythology and swiss savoir-vivre",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "sullivan_george",
+                        "name": "Sullivan, George"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "in_the_line_of_fire_a05",
+                "dewey_decimal": "",
+                "dewey_normal": "0",
+                "edition_info": "",
+                "isbn10": "0590482947",
+                "isbn13": "9780590482943",
+                "language": "eng",
+                "lcc_number": "",
+                "marc_enc_level": "1",
+                "notes": "",
+                "physical_description_text": "118 p., [4] leaves of plates : ill., ports.",
+                "publisher_id": "scholastic",
+                "publisher_name": "Scholastic",
+                "publisher_text": "New York : Scholastic, c1996.",
+                "subject_ids": [
+                    "amazon_com_biographies_memoirs_general",
+                    "amazon_com_childrens_books_ages_9_12_general",
+                    "women_spies",
+                    "espionage",
+                    "spies"
+                ],
+                "summary": "",
+                "title": "In the line of fire",
+                "title_latin": "In the line of fire",
+                "title_long": "In the line of fire: eight women war spies",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "goodman_michael_b",
+                        "name": "Goodman, Michael B."
+                    },
+                    {
+                        "id": "dover_robert_v_h",
+                        "name": "Dover, Robert V. H."
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spinning_intelligence_why_intelligence_needs_the_media_why_t",
+                "dewey_decimal": "070.4/4932712",
+                "dewey_normal": "70.44932712",
+                "edition_info": "(Cloth)",
+                "isbn10": "0231701144",
+                "isbn13": "9780231701143",
+                "language": "eng",
+                "lcc_number": "PN4735",
+                "marc_enc_level": "",
+                "notes": "Includes bibliographical references and index.\n\nRegulation by revelation? Integelligence, the media and transpareny / Richard J. Aldrich -- Intelligence secrets and media spotlights: balancing illumination and dark corners / David Omand -- Terrorism and the media: information war / Gordon Corera -- Good anthropology, bad history: America's cultural turn in the war on terror / Patrick Porter -- Open source intelligence and nuclear safeguards / Wyn Q. Bowen -- All the secrets that are fit to print? The media and US intelligence agencies before and after 9/11 / Steve Hewitt and Scott Lucas -- British intelligence and the British broadcasting corporation: a snapshot of a happy marriage / Michael S. Goodman -- Balancing national security and the media: the D-Notice committee / Nicholas Wilkinson -- Reflections on a lifetime of reporting on intelligence affairs / Chapman Pincher -- Bedmates or sparring partners? Canadian perspectives on the media-intelligence relationship in the new propaganda age / Tony Campbell -- The clandestine clapperboard: Alfred Hitchcock's tales of the Cold War / Pierre Lethier -- From Vauxhall Cross with love: intelligence in popular culture / Robert Dover.",
+                "physical_description_text": "vii, 263 p. ; 23 cm.",
+                "publisher_id": "columbia_university_press",
+                "publisher_name": "Columbia University Press",
+                "publisher_text": "New York : Columbia University Press, c2009.",
+                "subject_ids": [
+                    "nonfiction_politics_freedom_security_general",
+                    "nonfiction_politics_general",
+                    "nonfiction_social_sciences_media_studies",
+                    "reference_writing_journalism",
+                    "government_and_the_press",
+                    "espionage",
+                    "spies_in_mass_media"
+                ],
+                "summary": "",
+                "title": "Spinning intelligence",
+                "title_latin": "Spinning intelligence",
+                "title_long": "Spinning intelligence: why intelligence needs the media, why the media needs intelligence",
+                "urls_text": ""
+            }
+        ],
+        [
+            {
+                "author_data": [
+                    {
+                        "id": "maddrell_paul",
+                        "name": "Maddrell, Paul"
+                    }
+                ],
+                "awards_text": "",
+                "book_id": "spying_on_science_western_intelligence_in_divided_germany_19",
+                "dewey_decimal": "327.12091713",
+                "dewey_normal": "327.12091713",
+                "edition_info": "",
+                "isbn10": "0191533092",
+                "isbn13": "9780191533099",
+                "language": "eng",
+                "lcc_number": "UB251",
+                "marc_enc_level": "3",
+                "notes": "Contents; List of Abbreviations; Glossary; Note on Sources and Terminology; Introduction; 1. The Soviet Exploitation of German Science and the Origins of Scientific Containment; 2. Refugees and Defectors; 3. Other Key Sources of Intelligence; 4. The Prisoners-of-war Come Home; 5. Mass Espionage: Western Spying in Germany 194561; 6. The Scientific and Military Spy Networks; 7. The Inducement of Defection; 8. Operation Dragon Return; 9. The Western Secret Services and the Wall; 10. The Uses of the Intelligence Gathered; Conclusion: The Years of the Germans; Appendix; Bibliography; Index;\n\nElectronic reproduction.Available via World Wide Web.",
+                "physical_description_text": "345 p.",
+                "publisher_id": "oxford_university_press_uk_a02",
+                "publisher_name": "Oxford University Press, UK",
+                "publisher_text": "Oxford : Oxford University Press, UK, 2006.",
+                "subject_ids": [
+                    "espionage",
+                    "intelligence_service",
+                    "science",
+                    "technology_transfer",
+                    "electronic_books"
+                ],
+                "summary": "The years 1945-61 were a golden age of Western intelligence collection from spies, defectors, and refugees. This book examines the methods of spying and intelligence collection in East and West Germany and assesses the importance of border security to the East German Communist state, the impact of intelligence on the arms race, and the aggressive dimension of the US Government's policy of containment. - ;The years 1945-61 saw the greatest transformation in weaponry that has ever taken place, as atomic and thermonuclear bombs, intercontinental ballistic missiles and chemical and biological weap.",
+                "title": "Spying on Science: Western Intelligence in Divided Germany 1945-1961",
+                "title_latin": "Spying on Science: Western Intelligence in Divided Germany 1945-1961",
+                "title_long": "",
+                "urls_text": ""
+            }
+        ]
+    ],
+    "index_searched": "subject_id"
+}

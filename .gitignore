@@ -1,0 +1,7 @@
+apicache/
+_env/
+.env
+*.txt
+throttle.ctrl
+dob.html
+notes.txt
