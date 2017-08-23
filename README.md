@@ -14,14 +14,15 @@ There is some manual work needed but this project draws data from 2 sources. For
 ### Installing
 
 Navigate to your working folder.
-`git clone 
-
 ```
-`python3 -m venv _env`  
-`git clone....`
-Remove git info from repo
-`rm -rf dir_name/.git`
-
+git clone git@github.com:diek/build_library_database.git   
+cd build_library_database  
+# Remove git info from repo 
+rm -rf dir_name/.git    
+python3 -m venv _env    
+source _env/bin/activate  
+pip install --upgrade pip  
+pip install -r requirements.txt  
 ```
 
 
@@ -38,7 +39,7 @@ Please read leave comments and constructive criticism.
 
 ## Authors
 
-* **Derrick Kearney** - *Initial work* - [diek](https://github.com/diek)
+* **Derrick Kearney**  - [diek](https://github.com/diek)
 
 
 ## License
@@ -47,5 +48,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Justin who keeps me motivated, when I need a hard push
-* The crew @ RealPython, Dan Bader, and Adrian Rose, who keep me informed and on track
+* Justin who keeps me motivated, when I need a push
+* The crew @ RealPython, Dan Bader, and Adrian Rosebrock, who keep me informed and on track
