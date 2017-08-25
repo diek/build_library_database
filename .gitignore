@@ -1,5 +1,6 @@
 apicache/
 _env/
+sandbox/
 .env
 *.txt
 throttle.ctrl

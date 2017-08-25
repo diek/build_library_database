@@ -3,6 +3,7 @@
 This project was created out of my love of data, as a Django programmer a project needs data. Without data,   
 Django is boring. The crew @ Mozilla created one of the best Django tutorials out there, [Django Web Framework (Python)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django). And they finally created a detailed Django tutorial that uses something other than a blog, a great concept a [local library](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website)!  One issue, there was no data, I was somewhat amazed that I could not find a single source of books with titles, isbn, with author detail. So a project was born.
 
+## Note: Not all authors could be retrieved from Wikidata
 
 ## Getting Started/Prerequisites
 You will need an api key, [ISBNdb](http://isbndb.com/) they have a good policy of 500 free requests per day. 
@@ -23,6 +24,10 @@ python3 -m venv _env
 source _env/bin/activate  
 pip install --upgrade pip  
 pip install -r requirements.txt  
+touch .env
+# edit .env, add
+PYWIKIBOT2_NO_USER_CONFIG=1
+ISBN_KEY=YOURKEY
 ```
 
 

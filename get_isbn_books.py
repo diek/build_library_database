@@ -5,42 +5,45 @@ import os
 
 BASE_URL = 'http://isbndb.com/api/v2/json/' + os.environ["ISBN_KEY"]
 
+
 def get_subject_titles(subject):
     url = BASE_URL + '/subjects?q=' + subject
     resp = requests.get(url=url)
+    return json.loads(resp.text)
 
 
 def get_book_detail():
-    book_titles = []
-
+    book_data = {}
+    book_data['data'] = []
     with open('espionage_titles.json') as json_file:
         data = json.load(json_file)
-        for book in data['data'][0]['book_ids']:
-            book_titles.append(book)
+    book_lists = [books['book_ids'] for books in data['data']]
+    book_titles = [book for books in book_lists for book in books]
+    set(book_titles)
 
-    for idx, book in enumerate(book_titles):
+    for book in book_titles:
         url = BASE_URL + '/book/'
         url += book
         resp = requests.get(url=url)
-        book_data = json.loads(resp.text)
-        book_data['data'].append(book_data['data'])
+        data = json.loads(resp.text)
+        book_data['data'].append(data['data'])
 
     return book_data
 
 
-def write_json(data, f_name):
+def write_json(in_data, f_name):
     f_name += '.json'
-    json_data = json.dumps(data, indent=4, sort_keys=True)
+    json_data = json.dumps(in_data, indent=4, sort_keys=True)
     with open(f_name, 'w') as outfile:
         outfile.write(json_data)
 
 
 def main():
     subject = 'espionage'
-    get_subject_titles(subject)
-    write_json(book_data, 'espionage_titles')
-    book_data = get_book_detail()
-    write_json(book_data, 'espionage_books')
+    book_titles = get_subject_titles(subject)
+    write_json(book_titles, 'espionage_titles')
+    json_book_detail = get_book_detail()
+    write_json(json_book_detail, 'espionage_books')
 
 if __name__ == '__main__':
     main()
