@@ -1,4 +1,4 @@
-import json
+import simplejson as json
 import requests
 import os
 
@@ -15,19 +15,17 @@ def get_subject_titles(subject):
 def get_book_detail():
     book_data = {}
     book_data['data'] = []
-    with open('espionage_titles.json') as json_file:
+    with open('espionage_titles2.json') as json_file:
         data = json.load(json_file)
     book_lists = [books['book_ids'] for books in data['data']]
     book_titles = [book for books in book_lists for book in books]
-    set(book_titles)
 
-    for book in book_titles:
+    for book in set(book_titles):
         url = BASE_URL + '/book/'
         url += book
         resp = requests.get(url=url)
         data = json.loads(resp.text)
         book_data['data'].append(data['data'])
-
     return book_data
 
 

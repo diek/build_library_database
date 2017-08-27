@@ -1,104 +1,192 @@
-0, Adams, James L., Q17505029
-1, Alcorn, Robert Hayden, No Entry
-2, Andelman, David, Q30707927
-3, Bergier, Jacques, Q371639
-4, Blake, George, Q775915
-5, Blundell, Nigel, No Entry
-6, Boar, Roger, No Entry
-7, Brandsma, Gijs, No Entry
-8, Burn, Michael, No Entry
-9, Buzanova, I V., No Entry
-10, Campbell, Duncan, Q5314290
-11, Carney, Ralph M., No Entry
-12, Cohen, Daniel, Q5216824
-13, Colby, William, Q482827
-14, Copeland, Miles, Q6851353
-15, Cyr, C. C., No Entry
-16, Dann, Geoff, No Entry
-17, De Grazia, Alfred, No Entry
-18, Deacon, Richard, Q383518
-19, Deindorfer, Robert G., No Entry
-20, Denega, Danielle, No Entry
-21, Diaz-Cobo, Oscar, No Entry
-22, Dover, Robert V. H., No Entry
-23, Downton, Eric, No Entry
-24, Dulles, Allen Welsh, No Entry
-25, Eoyang, Carson, No Entry
-26, Farago, Ladislas, Q6469613
-27, French, Margaret, No Entry
-28, French, Scott R., No Entry
-29, Fridell, Ron, No Entry
-30, Gannon, James P., No Entry
-31, Gelb, Norman, No Entry
-32, Gifford, Clive, No Entry
-33, Gill, Peter, Q7174232
-34, Goodman, Michael B., No Entry
-35, Gorton, Steve, No Entry
-36, Hagen, Louis, No Entry
-37, Hall, Richard L., No Entry
-38, Healey, Tim, No Entry
-39, Helms, Richard, Q913848
-40, Henderson, Bruce, Q4497217
-41, Henhoeffer, William H., No Entry
-42, Hines, Janet, No Entry
-43, Hitz, Frederick P., No Entry
-44, Hutton, Joseph Bernard, No Entry
-45, Iarochkin, V., No Entry
-46, Knight, David, Q5236077
-47, Knightley, Phillip, Q5915325
-48, Kostov, Vladimir, No Entry
-49, Laffin, John, Q6243803
-50, Lang, Patrick, No Entry
-51, Lasota, Irena, No Entry
-52, Lawson, Don, No Entry
-53, Le Caron, Henri, No Entry
-54, Liebenau, Gerald L., No Entry
-55, Lockhart, Robin Bruce, Q16087389
-56, Lotz, Wolfgang, Q701741
-57, Mack, Jefferson, No Entry
-58, Maddrell, Paul, Q7152146
-59, Marenches, Alexandre de, Q2834206
-60, Martini, Teri, No Entry
-61, McCormick, Donald B., No Entry
-62, Melton, H. Keith, Q5628341
-63, Morrill, Leslie H., No Entry
-64, Mr X, Anon, No Entry
-65, Murphy, Brian E., No Entry
-66, Oppenheim, E. Phillips, Q163069
-67, Owen, David, Q333085
-68, Paine, Lauran, Q6499614
-69, Palmer, Raymond Edward, No Entry
-70, Parker, John, Q1701324
-71, Phythian, Mark, Q6769258
-72, Piekalkiewicz, Janusz, No Entry
-73, Platt, Richard, Q3431128
-74, Pohl-Wannenmacher, Belga, No Entry
-75, Pohl-Wannenmacher, Helga, No Entry
-76, Portalupi, Laura, No Entry
-77, Probert, Ian, No Entry
-78, Redlinger, Lawrence J., No Entry
-79, Richelson, Jeffrey, No Entry
-80, Rimington, Dame Stella, No Entry
-81, Rowan, Richard L., No Entry
-82, Runde, Carl Peter, No Entry
-83, Rusbridger, James, Q6142510
-84, Russell, Francis, Q1040449
-85, Sarbin, Theodore R., Q7781962
-86, Shems, Ed, No Entry
-87, Silva, Daniel, Q1208507
-88, Silverstein, Herma, No Entry
-89, Steven, Stewart, Q7615949
-90, Sullivan, George, Q1508304
-91, Sweeney, James Johnson, Q6136905
-92, Sweetman, David, Q5240205
-93, Voss, Greg, No Entry
-94, Vyleta, Dan, Q5214534
-95, Wark, Wesley K., No Entry
-96, Way, Peter, Q7177621
-97, West, Nigel, No Entry
-98, West, William F., No Entry
-99, Wiese, Jim, No Entry
-100, Wilson, Rena, No Entry
-101, Winkler, Ira, No Entry
-102, Wolf, Markus, Q57399
-103, Wright, Peter, Q3124586
+1, Adams, James L., Q17505029
+2, Alcorn, Robert Hayden, No Entry
+3, Altavilla, Enrico, No Entry
+4, Andelman, David, Q30707927
+5, Andrew, Christopher M., No Entry
+6, Ashley, Clarence, Q1095358
+7, Bachrach, Deborah, No Entry
+8, Bamford, James D., No Entry
+9, Becket, Henry S. A., No Entry
+10, Bennett, Richard G, No Entry
+11, Bergier, Jacques, Q371639
+12, Blake, George, Q775915
+13, Bloom, Richard W., No Entry
+14, Blundell, Nigel, No Entry
+15, Boar, Roger, No Entry
+16, Books, Time-Life, No Entry
+17, Brandsma, Gijs, No Entry
+18, Brook-Shepherd, Gordon, No Entry
+19, Bruce Lockhart, Robin, Q16087389
+20, Buchanan, Lyn, No Entry
+21, Buranelli, Vincent, No Entry
+22, Buranelli, Nan, No Entry
+23, Burn, Michael, No Entry
+24, Burton, Bob, No Entry
+25, Buzanova, Ya. V., No Entry
+26, Campbell, Duncan, Q5314290
+27, Carney, Ralph M., No Entry
+28, Cepik, Marco, No Entry
+29, Cohen, Daniel, Q5216824
+30, Colby, William, Q482827
+31, Copeland, Miles, Q6851353
+32, Cyr, C. C., No Entry
+33, Dallin, David J., No Entry
+34, Dann, Geoff, No Entry
+35, De Grazia, Alfred, No Entry
+36, Deacon, Richard, Q383518
+37, Deindorfer, Robert G., No Entry
+38, Denega, Danielle, No Entry
+39, Deriabin, Peter, Q7173642
+40, Diaz-Cobo, Oscar, No Entry
+41, Dover, Robert V. H., No Entry
+42, Downton, Eric, No Entry
+43, Doyle, David Noel, No Entry
+44, Drew, Annette Lawrence, No Entry
+45, Drew, Christopher, Q20966621
+46, Dulles, Allen Welsh, No Entry
+47, Eldridge, Jim, Q16728791
+48, Eoyang, Carson, No Entry
+49, Farago, Ladislas, Q6469613
+50, Farman, John, No Entry
+51, French, Margaret, No Entry
+52, French, Scott R., No Entry
+53, Fridell, Ron, No Entry
+54, Frost, Mike, No Entry
+55, Gannon, James P., No Entry
+56, Gelb, Norman, No Entry
+57, Gerdes, Louise I., No Entry
+58, Gibney, Frank, Q5486836
+59, Gifford, Clive, No Entry
+60, Gill, Peter, Q7174232
+61, Godson, Roy, Q30117041
+62, Goodman, Michael B., No Entry
+63, Gordievsky, Oleg, Q562371
+64, Gorton, Steve, No Entry
+65, Gratton, Michel, Q6836411
+66, HITZ, FREDERICK P., No Entry
+67, Hagen, Louis, No Entry
+68, Hall, Richard L., No Entry
+69, Hastedt, Glenn, No Entry
+70, Haswell, Jock, Q23769860
+71, Healey, Tim, No Entry
+72, Heaps, Leo, No Entry
+73, Heilbrunn, Otto, No Entry
+74, Helms, Richard, Q913848
+75, Henderson, Bruce, Q4497217
+76, Henhoeffer, William H., No Entry
+77, Hindley, Judy, No Entry
+78, Hines, Janet, No Entry
+79, Hood, William, Q1713331
+80, Hopkirk, P., No Entry
+81, Hutton, Joseph Bernard, No Entry
+82, Jeffreys-Jones, Rhodri, Q7321240
+83, Jenssen, Lars Christian, No Entry
+84, Johnson, Loch K., Q6664924
+85, Kalugin, Oleg, Q938110
+86, Kern, Gary, No Entry
+87, Kilgour, David, Q872073
+88, King, Colin, Q5145261
+89, Kish, John, No Entry
+90, Knight, David, Q5236077
+91, Knightley, Phillip, Q5915325
+92, Knudson, Richard L., No Entry
+93, Kostov, Vladimir, No Entry
+94, Laffin, John, Q6243803
+95, Lang, Patrick, No Entry
+96, Lashmar, Paul, No Entry
+97, Lasota, Irena, No Entry
+98, Lawson, Don, No Entry
+99, Le Caron, Henri, No Entry
+100, Liebenau, Gerald L., No Entry
+101, Lloyd, Mark, Q6768623
+102, Lotz, Wolfgang, Q701741
+103, Lunev, Stanislav, Q3031961
+104, Mack, Jefferson, No Entry
+105, Maclean, Fitzroy, Q5455709
+106, Maddrell, Paul, Q7152146
+107, Manickam, R. N., No Entry
+108, Marenches, Alexandre de, Q2834206
+109, Martini, Teri, No Entry
+110, McCormick, Donald B., No Entry
+111, McCoy, Leonard, Q16351
+112, McKnight, David, Q28224483
+113, Melton, Keith, No Entry
+114, Melton, H. Keith, Q5628341
+115, Minshall, Merlin, Q6819781
+116, Montaigne, Fen, No Entry
+117, Morrill, Leslie H., No Entry
+118, Murphy, Brian E., No Entry
+119, Murray, John J., No Entry
+120, Museum, The Salvador Dali, No Entry
+121, O'Brien-ffrench, Conrad, Q5162578
+122, Oppenheim, E. Phillips, Q163069
+123, Owen, David, Q333085
+124, Paine, Lauran, Q6499614
+125, Palmer, Raymond Edward, No Entry
+126, Parker, John, Q1701324
+127, Penkovsky, Oleg Vladimirovich, No Entry
+128, Phythian, Mark, Q6769258
+129, Pieka Kiewicz, Janusz, No Entry
+130, Pincher, Chapman, Q5073304
+131, Platt, Richard, Q3431128
+132, Pohl-Wannenmacher, Helga, No Entry
+133, Pohl-Wannenmacher, Belga, No Entry
+134, Polianskii, Anatolii, No Entry
+135, Portalupi, Laura, No Entry
+136, Probert, Ian, No Entry
+137, Redlinger, Lawrence J., No Entry
+138, Reitz, Manfred, No Entry
+139, Richelson, Jeffrey, No Entry
+140, Rimington, Dame Stella, No Entry
+141, Riste, Olav, Q7083213
+142, Robbins, Christopher, Q17147616
+143, Rositzke, Harry August, No Entry
+144, Ross, Thomas Wynne, No Entry
+145, Rowan, Richard L., No Entry
+146, Runde, Carl Peter, No Entry
+147, Rusbridger, James, Q6142510
+148, Russell, Francis, Q1040449
+149, Said, Wadie E., No Entry
+150, Sarbin, Theodore R., Q7781962
+151, Schecter, Jerrold L., No Entry
+152, Schnabel, Jim, No Entry
+153, Seth, Ronald, No Entry
+154, Shayler, David, Q3018780
+155, Shems, Ed, No Entry
+156, Shepherd, Gordon M., Q5585483
+157, Shugaar, Antony, No Entry
+158, Shultz, Richard H., Q18157963
+159, Shvets, Yuri B., No Entry
+160, Silva, Daniel, Q1208507
+161, Silverstein, Herma, No Entry
+162, Smith, Paul Thomas, No Entry
+163, Sontag, Sherry, No Entry
+164, Staar, Richard Felix, Q7325641
+165, Stafford, David, Q5240015
+166, Steven, Stewart, Q7615949
+167, Sullivan, George, Q1508304
+168, Sweeney, James Johnson, Q6136905
+169, Sweetman, David, Q5240205
+170, Szendy, Peter, Q3376910
+171, Travis, Falcon, No Entry
+172, Tuck, Jay, Q1239689
+173, Tully, Andrew, No Entry
+174, Turns, David, No Entry
+175, Urban, Mark, Q6770113
+176, Vasan, Mildred, No Entry
+177, Voss, Greg, No Entry
+178, Vyleta, Dan, Q5214534
+179, Wark, Wesley K., No Entry
+180, Way, Peter, Q7177621
+181, Wein, Elizabeth, No Entry
+182, West, Nigel, No Entry
+183, West, William F., No Entry
+184, Wiese, Jim, No Entry
+185, Wilson, Rena, No Entry
+186, Winkler, Ira, No Entry
+187, Wise, David A., No Entry
+188, Wolf, Markus, Q57399
+189, Wright, Peter, Q3124586
+190, X, Mr, No Entry
+191, Yarochkin, V. I., No Entry
+192, Ziff, John, No Entry

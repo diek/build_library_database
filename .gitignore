@@ -4,5 +4,4 @@ sandbox/
 .env
 *.txt
 throttle.ctrl
-dob.html
 notes.txt
